@@ -6,7 +6,7 @@ Age,Birth Place,Birthday,College,Current Status,Current Team,Experience,Height (
 25,"Detroit , MI",3/31/1992,Central Michigan,Active,Pittsburgh Steelers,3rd season,77,Clintondale HS,"Clinton Twp.,Macomb Co., MI","Walton, L.T.",96,l.t.walton/2552444,DE,305,
 ,"Sumner , IL",9/11/1892,Illinois,Retired,,1 Season,73,,,"Petty, Ross",,rosspetty/2523136,,180,1920 - 1920
 ,"Casper , WY",9/16/1920,Wisconsin,Retired,,3 Seasons,73,,,"Farris, Tom",,tomfarris/2513861,,185,1946 - 1948
-22,"Navarre , FL",1/31/1995,Clemson,Active,New York Jets,Rookie,77,Navarre HS,FL,"Leggett, Jordan",,jordanleggett/2557885,TE,250,
+22,"Navarre , FL",1/31/1995,Clemson,Active,New York Jets,1 Season,77,Navarre HS,FL,"Leggett, Jordan",,jordanleggett/2557885,TE,250,
 ,,,No College,Retired,,1 Season,,,,"Thompson, Pinky",,pinkythompson/2527303,,,1927 - 1927
 98,"Alverton , PA",2/23/1919,Duquesne,Retired,,1 Season,70,,,"Gonda, George",,georgegonda/2515030,,175,1942 - 1942
 ,"Orlando , FL",3/8/1945,Tennessee Tech,Retired,,3 Seasons,76,,,"Tanner, John",,johntanner/2527011,,231,1971 - 1974
@@ -53,7 +53,7 @@ Age,Birth Place,Birthday,College,Current Status,Current Team,Experience,Height (
 30,"Pensacola , FL",9/4/1986,Maryland,Retired,,0 Season,77,,,"Randolph, Dane",,danerandolph/2507719,,310,2009 - 2009
 24,"Kansas City , MO",1/15/1993,Pittsburg State,Active,Kansas City Chiefs,2nd season,74,Hogan Preparatory Academy HS,"Kansas City, MO","Bausby, DeVante",,devantebausby/2553790,CB,190,
 ,"Chicago , IL",3/19/1919,Creighton,Retired,,2 Seasons,70,,,"Knolla, Johnny",,johnnyknolla/2518652,,180,1942 - 1945
-,,,Massachusetts,Active,Denver Broncos,Rookie,76,,,"Wilkinson, Elijah",,elijahwilkinson/2559295,OT,331,
+,,,Massachusetts,Active,Denver Broncos,1 Season,76,,,"Wilkinson, Elijah",,elijahwilkinson/2559295,OT,331,
 81,"Los Angeles , CA",1/23/1936,Compton CC CA,Retired,,5 Seasons,74,,,"Lewis, Joe",,joelewis/2519453,,256,1958 - 1962
 26,,1/24/1991,Texas Christian,Retired,,1 Season,68,,,"James, Waymon",,waymonjames/2550652,,203,2014 - 2014
 ,"St. Helena , CA",11/23/1909,St. Mary's (CA),Retired,,2 Seasons,74,,,"Nichelini, Al",,alnichelini/2522114,,207,1935 - 1936
@@ -64,7 +64,7 @@ Age,Birth Place,Birthday,College,Current Status,Current Team,Experience,Height (
 78,"Rocky Mount , NC",12/10/1938,Clemson,Retired,,10 Seasons,73,,,"Mathis, Bill",,billmathis/2520333,,220,1960 - 1969
 27,"Stockton , CA",1/1/1990,Montana,Active,Los Angeles Rams,6th season,74,Edison HS,"Stockton, CA","Johnson, Trumaine",22,trumainejohnson/2532877,CB,208,
 30,"Casper , WY",11/19/1986,Utah,Active,San Francisco 49ers,8th season,76,Hillcrest HS,"Midvale, UT","Beadles, Zane",68,zanebeadles/496980,G,305,
-23,"Orland Park , IL",5/29/1994,Indiana,Active,Los Angeles Chargers,Rookie,76,Carl Sandburg HS,"Orland Park, IL","Feeney, Dan",,danfeeney/2557873,OG,304,
+23,"Orland Park , IL",5/29/1994,Indiana,Active,Los Angeles Chargers,1 Season,76,Carl Sandburg HS,"Orland Park, IL","Feeney, Dan",,danfeeney/2557873,OG,304,
 ,"New York , NY",4/23/1959,North Texas,Retired,,7 Seasons,74,,,"Elliott, Tony",,tonyelliott/2513563,,282,1982 - 1988
 34,,5/29/1983,Eastern Michigan,Retired,,0 Season,78,,,"Kaleita, Tom",,tomkaleita/2518101,,318,2006 - 2006
 30,Frankfurt Germany,2/18/1987,Syracuse,Retired,,1 Season,74,,,"Lewis, Andrew",,andrewlewis/2530849,,303,2011 - 2011
@@ -78,12 +78,12 @@ Age,Birth Place,Birthday,College,Current Status,Current Team,Experience,Height (
 58,"Richmond , VA",10/23/1958,Virginia,Retired,,1 Season,68,,,"Taylor, Greg",,gregtaylor/2527085,,175,1982 - 1982
 33,"San Jose , CA",2/6/1984,Washington State,Retired,,7 Seasons,71,,,"Frampton, Eric",,ericframpton/2495605,,202,2007 - 2013
 ,"Hillsboro , TX",6/18/1910,Texas A&M,Retired,,8 Seasons,76,,,"Malone, Chuck",,chuckmalone/2520035,,206,1934 - 1942
-,,,Miami (Fla.),Active,Jacksonville Jaguars,Rookie,70,Clarke Central HS,"Athens, GA","Williams, Marquez",,marquezwilliams/2558860,FB,259,
+,,,Miami (Fla.),Active,Jacksonville Jaguars,1 Season,70,Clarke Central HS,"Athens, GA","Williams, Marquez",,marquezwilliams/2558860,FB,259,
 ,"Akron , OH",6/21/1929,Kentucky,Retired,,12 Seasons,75,,,"Gain, Bob",,bobgain/2514537,,256,1952 - 1964
 64,"Tecumseh , NE",1/21/1953,Nebraska,Retired,,6 Seasons,71,,,"Davis, Tony",,tonydavis/2512597,,212,1976 - 1981
 29,"Atlanta , GA",5/3/1988,LSU,Unsigned free agent,Oakland Raiders,8th season,72,Stephenson HS,"Stone Mountain, GA","Riley, Perry",54,perryriley/496949,MLB,240,
 32,"Providence , RI",10/27/1984,Boston College,Active,Washington Redskins,11th season,72,Bishop Hendricken HS,"Warwick, RI","Blackmon, Will",41,willblackmon/2495809,FS,212,
-24,,12/4/1992,Nevada,Active,Buffalo Bills,Rookie,74,,,"Seau, Ian",,ianseau/2556677,DE,256,
+24,,12/4/1992,Nevada,Active,Buffalo Bills,1 Season,74,,,"Seau, Ian",,ianseau/2556677,DE,256,
 34,"Savannah , GA",11/11/1982,Central Florida,Retired,,3 Seasons,79,,,"Carrington, Paul",,paulcarrington/2506618,,270,2006 - 2008
 45,"Shreveport , LA",9/2/1971,UCLA,Retired,,9 Seasons,76,,,"Maddox, Tommy",,tommymaddox/2501842,,219,1992 - 2005
 25,"Fort Knox , KY",7/12/1991,Georgia Southern,Retired,,3 Seasons,74,,,"Eubanks, Darius",,dariuseubanks/2541703,,222,2013 - 2015
