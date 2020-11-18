@@ -1,0 +1,2871 @@
+@prefix NFL: <http://www.nfl.com/> .
+@prefix Schema: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+NFL:1 a Schema:SportsTeam ;
+    rdfs:label "Arizona Cardinals"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "Arizona Cardinals" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:10 a Schema:SportsTeam ;
+    rdfs:label "Denver Broncos"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2559295 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Denver Broncos" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:11 a Schema:SportsTeam ;
+    rdfs:label "Detroit Lions"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Detroit Lions" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:12 a Schema:SportsTeam ;
+    rdfs:label "Green Bay Packers"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2552263 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Green Bay Packers" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:13 a Schema:SportsTeam ;
+    rdfs:label "Houston Texans"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2543640 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Houston Texans" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:14 a Schema:SportsTeam ;
+    rdfs:label "Indianapolis Colts"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Indianapolis Colts" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:15 a Schema:SportsTeam ;
+    rdfs:label "Jacksonville Jaguars"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2532873,
+        NFL:2558860 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Jacksonville Jaguars" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:16 a Schema:SportsTeam ;
+    rdfs:label "Kansas City Chiefs"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2543862,
+        NFL:2553790 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Kansas City Chiefs" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:17 a Schema:SportsTeam ;
+    rdfs:label "Miami Dolphins"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2508043,
+        NFL:2555201,
+        NFL:2555230,
+        NFL:2558070 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Miami Dolphins" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:18 a Schema:SportsTeam ;
+    rdfs:label "Minnesota Vikings"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2558915 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Minnesota Vikings" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:19 a Schema:SportsTeam ;
+    rdfs:label "New England Patriots"@en ;
+    Schema:abstract "The New England Patriots are a professional American football team based in the Greater Boston region. The Patriots compete in the National Football League (NFL) as a member of the American Football Conference (AFC) East division. The team plays its home games at Gillette Stadium in the town of Foxborough, Massachusetts, which is located 21 miles (34 km) southwest of downtown Boston and 20 miles (32 km) northeast of downtown Providence, Rhode Island. The Patriots are also headquartered at Gillette Stadium. An original member of the American Football League (AFL), the Patriots joined the NFL in the 1970 merger of the two leagues. The team changed its name from the original Boston Patriots after relocating to Foxborough in 1971. The Patriots played their home games at Foxboro Stadium from 1971 to 2001, then moved to Gillette Stadium at the start of the 2002 season. The Patriots' rivalry with the New York Jets is considered one of the most bitter rivalries in the NFL. The Patriots have appeared in the Super Bowl eight times in franchise history, six of them since the arrival of head coach Bill Belichick and quarterback Tom Brady in 2000. The Patriots have since become one of the most successful teams in NFL history, winning twelve AFC East titles in 14 seasons since 2001, without a losing season in that period. The Patriots have since set numerous notable records, including most wins in a ten-year period (126, in 2003–2012), an undefeated 16-game regular season in 2007, and the longest winning streak consisting of regular season and playoff games in NFL history (a 21-game streak from October 2003 to October 2004). The Patriots own the record for most Super Bowls reached by a head coach-quarterback tandem (six), as well as being the first tandem to win the Super Bowl 14 years after the first." ;
+    Schema:atlete NFL:238498,
+        NFL:2508101,
+        NFL:2532907,
+        NFL:2533062,
+        NFL:2535132,
+        NFL:2543498,
+        NFL:2552255,
+        NFL:2552271,
+        NFL:2552392,
+        NFL:2552657,
+        NFL:2553632,
+        NFL:2553665,
+        NFL:2555145,
+        NFL:2555517,
+        NFL:2556525,
+        NFL:2558040,
+        NFL:2558908,
+        NFL:2559002,
+        NFL:2559036,
+        NFL:2559038,
+        NFL:2559374,
+        NFL:497240,
+        NFL:71251 ;
+    Schema:coach <http://dbpedia.org/resource/Bill_Belichick> ;
+    Schema:formationDate "1959-11-16"^^xsd:date ;
+    Schema:name "New England Patriots" ;
+    Schema:noSbChamps "4"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Robert_Kraft> ;
+    Schema:sport "American Football" .
+
+NFL:2 a Schema:SportsTeam ;
+    rdfs:label "Atlanta Falcons"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Atlanta Falcons" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:20 a Schema:SportsTeam ;
+    rdfs:label "New Orleans Saints"@en ;
+    Schema:abstract "The New Orleans Saints are a professional American football team based in New Orleans, Louisiana. The Saints currently compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) South division. The team was founded by John W. Mecom Jr. and David Dixon and the city of New Orleans. The Saints began play in Tulane Stadium in 1967. The name \"Saints\" is an allusion to November 1 being All Saints Day in the Catholic faith, New Orleans' large Catholic population, and the spiritual \"When the Saints Go Marching In\", which is strongly associated with New Orleans and often sung by fans at games. The team's primary colors are old gold and black; their logo is a simplified fleur-de-lis. They played their home games in Tulane Stadium through the 1974 NFL season. The following year, they moved to the new Louisiana Superdome (now the Mercedes-Benz Superdome, since Mercedes-Benz has purchased the stadium's naming rights). For most of their first 20 years, the Saints were barely competitive, only getting to .500 twice. In 1987, they finished 12–3—their first-ever winning season—and qualified for the NFL playoffs for the first time in franchise history, but lost to the Minnesota Vikings 44–10. The next season of 1988 ended with a 10–6 record. In the year 2000, the Saints defeated the St. Louis Rams 31–28 to notch their first-ever playoff win. In 2005, Hurricane Katrina devastated New Orleans and much of the Gulf Coast region. The Superdome was used as an emergency temporary shelter for displaced residents. The stadium suffered damage from the hurricane (notably from flooding and part of the roof being torn off as well as internal damage), and from lack of available facilities. The Saints were forced to play their first scheduled home game against the New York Giants at Giants Stadium in East Rutherford, New Jersey (the Giants' home stadium); other home games were rescheduled at the Alamodome in San Antonio, Texas or Tiger Stadium in Baton Rouge, Louisiana. During the season, it was rumored that Saints owner Tom Benson might deem the Superdome unusable and seek to legally void his contract and relocate the team to San Antonio, where he has business interests. Ultimately, however, the Superdome was repaired and renovated in time for the 2006 season at an estimated cost of US$185 million. The New Orleans Saints' first post-Katrina home game was an emotionally charged Monday Night Football game versus their division rival, the Atlanta Falcons. The Saints, under rookie head coach Sean Payton and new quarterback Drew Brees, defeated the Falcons 23–3, and went on to notch the second playoff win in franchise history. The 2009 season was a historic one for the Saints. Winning a franchise-record 13 games, they qualified for Super Bowl XLIV and defeated the AFC champion Indianapolis Colts 31–17. To date, it is the only Super Bowl championship that they have won, and as it is the only Super Bowl the Saints have appeared in, they join the New York Jets and Tampa Bay Buccaneers as the only three NFL teams to win their lone Super Bowl appearance. Over the course of 49 seasons, the Saints have compiled an overall record of 331–418–5, with a regular-season record of 324–409–5 and a playoff record of 7–9." ;
+    Schema:atlete NFL:2532859 ;
+    Schema:coach <http://dbpedia.org/resource/Sean_Payton> ;
+    Schema:formationDate "1966-11-01"^^xsd:date ;
+    Schema:name "New Orleans Saints" ;
+    Schema:noSbChamps "1"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Tom_Benson> ;
+    Schema:sport "American Football" .
+
+NFL:21 a Schema:SportsTeam ;
+    rdfs:label "New York Giants"@en ;
+    Schema:abstract "The New Orleans Saints are a professional American football team based in New Orleans, Louisiana. The Saints currently compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) South division. The team was founded by John W. Mecom Jr. and David Dixon and the city of New Orleans. The Saints began play in Tulane Stadium in 1967. The name \"Saints\" is an allusion to November 1 being All Saints Day in the Catholic faith, New Orleans' large Catholic population, and the spiritual \"When the Saints Go Marching In\", which is strongly associated with New Orleans and often sung by fans at games. The team's primary colors are old gold and black; their logo is a simplified fleur-de-lis. They played their home games in Tulane Stadium through the 1974 NFL season. The following year, they moved to the new Louisiana Superdome (now the Mercedes-Benz Superdome, since Mercedes-Benz has purchased the stadium's naming rights). For most of their first 20 years, the Saints were barely competitive, only getting to .500 twice. In 1987, they finished 12–3—their first-ever winning season—and qualified for the NFL playoffs for the first time in franchise history, but lost to the Minnesota Vikings 44–10. The next season of 1988 ended with a 10–6 record. In the year 2000, the Saints defeated the St. Louis Rams 31–28 to notch their first-ever playoff win. In 2005, Hurricane Katrina devastated New Orleans and much of the Gulf Coast region. The Superdome was used as an emergency temporary shelter for displaced residents. The stadium suffered damage from the hurricane (notably from flooding and part of the roof being torn off as well as internal damage), and from lack of available facilities. The Saints were forced to play their first scheduled home game against the New York Giants at Giants Stadium in East Rutherford, New Jersey (the Giants' home stadium); other home games were rescheduled at the Alamodome in San Antonio, Texas or Tiger Stadium in Baton Rouge, Louisiana. During the season, it was rumored that Saints owner Tom Benson might deem the Superdome unusable and seek to legally void his contract and relocate the team to San Antonio, where he has business interests. Ultimately, however, the Superdome was repaired and renovated in time for the 2006 season at an estimated cost of US$185 million. The New Orleans Saints' first post-Katrina home game was an emotionally charged Monday Night Football game versus their division rival, the Atlanta Falcons. The Saints, under rookie head coach Sean Payton and new quarterback Drew Brees, defeated the Falcons 23–3, and went on to notch the second playoff win in franchise history. The 2009 season was a historic one for the Saints. Winning a franchise-record 13 games, they qualified for Super Bowl XLIV and defeated the AFC champion Indianapolis Colts 31–17. To date, it is the only Super Bowl championship that they have won, and as it is the only Super Bowl the Saints have appeared in, they join the New York Jets and Tampa Bay Buccaneers as the only three NFL teams to win their lone Super Bowl appearance. Over the course of 49 seasons, the Saints have compiled an overall record of 331–418–5, with a regular-season record of 324–409–5 and a playoff record of 7–9." ;
+    Schema:atlete NFL:2495164,
+        NFL:2539307,
+        NFL:2543689 ;
+    Schema:coach <http://dbpedia.org/resource/Sean_Payton> ;
+    Schema:formationDate "1966-11-01"^^xsd:date ;
+    Schema:name "New York Giants" ;
+    Schema:noSbChamps "1"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Tom_Benson> ;
+    Schema:sport "American Football" .
+
+NFL:22 a Schema:SportsTeam ;
+    rdfs:label "New York Jets"@en ;
+    Schema:abstract "The New Orleans Saints are a professional American football team based in New Orleans, Louisiana. The Saints currently compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) South division. The team was founded by John W. Mecom Jr. and David Dixon and the city of New Orleans. The Saints began play in Tulane Stadium in 1967. The name \"Saints\" is an allusion to November 1 being All Saints Day in the Catholic faith, New Orleans' large Catholic population, and the spiritual \"When the Saints Go Marching In\", which is strongly associated with New Orleans and often sung by fans at games. The team's primary colors are old gold and black; their logo is a simplified fleur-de-lis. They played their home games in Tulane Stadium through the 1974 NFL season. The following year, they moved to the new Louisiana Superdome (now the Mercedes-Benz Superdome, since Mercedes-Benz has purchased the stadium's naming rights). For most of their first 20 years, the Saints were barely competitive, only getting to .500 twice. In 1987, they finished 12–3—their first-ever winning season—and qualified for the NFL playoffs for the first time in franchise history, but lost to the Minnesota Vikings 44–10. The next season of 1988 ended with a 10–6 record. In the year 2000, the Saints defeated the St. Louis Rams 31–28 to notch their first-ever playoff win. In 2005, Hurricane Katrina devastated New Orleans and much of the Gulf Coast region. The Superdome was used as an emergency temporary shelter for displaced residents. The stadium suffered damage from the hurricane (notably from flooding and part of the roof being torn off as well as internal damage), and from lack of available facilities. The Saints were forced to play their first scheduled home game against the New York Giants at Giants Stadium in East Rutherford, New Jersey (the Giants' home stadium); other home games were rescheduled at the Alamodome in San Antonio, Texas or Tiger Stadium in Baton Rouge, Louisiana. During the season, it was rumored that Saints owner Tom Benson might deem the Superdome unusable and seek to legally void his contract and relocate the team to San Antonio, where he has business interests. Ultimately, however, the Superdome was repaired and renovated in time for the 2006 season at an estimated cost of US$185 million. The New Orleans Saints' first post-Katrina home game was an emotionally charged Monday Night Football game versus their division rival, the Atlanta Falcons. The Saints, under rookie head coach Sean Payton and new quarterback Drew Brees, defeated the Falcons 23–3, and went on to notch the second playoff win in franchise history. The 2009 season was a historic one for the Saints. Winning a franchise-record 13 games, they qualified for Super Bowl XLIV and defeated the AFC champion Indianapolis Colts 31–17. To date, it is the only Super Bowl championship that they have won, and as it is the only Super Bowl the Saints have appeared in, they join the New York Jets and Tampa Bay Buccaneers as the only three NFL teams to win their lone Super Bowl appearance. Over the course of 49 seasons, the Saints have compiled an overall record of 331–418–5, with a regular-season record of 324–409–5 and a playoff record of 7–9." ;
+    Schema:atlete NFL:2557885 ;
+    Schema:coach <http://dbpedia.org/resource/Sean_Payton> ;
+    Schema:formationDate "1966-11-01"^^xsd:date ;
+    Schema:name "New York Jets" ;
+    Schema:noSbChamps "1"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Tom_Benson> ;
+    Schema:sport "American Football" .
+
+NFL:23 a Schema:SportsTeam ;
+    rdfs:label "Oakland Raiders"@en ;
+    Schema:abstract "The New Orleans Saints are a professional American football team based in New Orleans, Louisiana. The Saints currently compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) South division. The team was founded by John W. Mecom Jr. and David Dixon and the city of New Orleans. The Saints began play in Tulane Stadium in 1967. The name \"Saints\" is an allusion to November 1 being All Saints Day in the Catholic faith, New Orleans' large Catholic population, and the spiritual \"When the Saints Go Marching In\", which is strongly associated with New Orleans and often sung by fans at games. The team's primary colors are old gold and black; their logo is a simplified fleur-de-lis. They played their home games in Tulane Stadium through the 1974 NFL season. The following year, they moved to the new Louisiana Superdome (now the Mercedes-Benz Superdome, since Mercedes-Benz has purchased the stadium's naming rights). For most of their first 20 years, the Saints were barely competitive, only getting to .500 twice. In 1987, they finished 12–3—their first-ever winning season—and qualified for the NFL playoffs for the first time in franchise history, but lost to the Minnesota Vikings 44–10. The next season of 1988 ended with a 10–6 record. In the year 2000, the Saints defeated the St. Louis Rams 31–28 to notch their first-ever playoff win. In 2005, Hurricane Katrina devastated New Orleans and much of the Gulf Coast region. The Superdome was used as an emergency temporary shelter for displaced residents. The stadium suffered damage from the hurricane (notably from flooding and part of the roof being torn off as well as internal damage), and from lack of available facilities. The Saints were forced to play their first scheduled home game against the New York Giants at Giants Stadium in East Rutherford, New Jersey (the Giants' home stadium); other home games were rescheduled at the Alamodome in San Antonio, Texas or Tiger Stadium in Baton Rouge, Louisiana. During the season, it was rumored that Saints owner Tom Benson might deem the Superdome unusable and seek to legally void his contract and relocate the team to San Antonio, where he has business interests. Ultimately, however, the Superdome was repaired and renovated in time for the 2006 season at an estimated cost of US$185 million. The New Orleans Saints' first post-Katrina home game was an emotionally charged Monday Night Football game versus their division rival, the Atlanta Falcons. The Saints, under rookie head coach Sean Payton and new quarterback Drew Brees, defeated the Falcons 23–3, and went on to notch the second playoff win in franchise history. The 2009 season was a historic one for the Saints. Winning a franchise-record 13 games, they qualified for Super Bowl XLIV and defeated the AFC champion Indianapolis Colts 31–17. To date, it is the only Super Bowl championship that they have won, and as it is the only Super Bowl the Saints have appeared in, they join the New York Jets and Tampa Bay Buccaneers as the only three NFL teams to win their lone Super Bowl appearance. Over the course of 49 seasons, the Saints have compiled an overall record of 331–418–5, with a regular-season record of 324–409–5 and a playoff record of 7–9." ;
+    Schema:atlete NFL:2550164,
+        NFL:496949 ;
+    Schema:coach <http://dbpedia.org/resource/Sean_Payton> ;
+    Schema:formationDate "1966-11-01"^^xsd:date ;
+    Schema:name "Oakland Raiders" ;
+    Schema:noSbChamps "1"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Tom_Benson> ;
+    Schema:sport "American Football" .
+
+NFL:24 a Schema:SportsTeam ;
+    rdfs:label "Philadelphia Eagles"@en ;
+    Schema:abstract "The New Orleans Saints are a professional American football team based in New Orleans, Louisiana. The Saints currently compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) South division. The team was founded by John W. Mecom Jr. and David Dixon and the city of New Orleans. The Saints began play in Tulane Stadium in 1967. The name \"Saints\" is an allusion to November 1 being All Saints Day in the Catholic faith, New Orleans' large Catholic population, and the spiritual \"When the Saints Go Marching In\", which is strongly associated with New Orleans and often sung by fans at games. The team's primary colors are old gold and black; their logo is a simplified fleur-de-lis. They played their home games in Tulane Stadium through the 1974 NFL season. The following year, they moved to the new Louisiana Superdome (now the Mercedes-Benz Superdome, since Mercedes-Benz has purchased the stadium's naming rights). For most of their first 20 years, the Saints were barely competitive, only getting to .500 twice. In 1987, they finished 12–3—their first-ever winning season—and qualified for the NFL playoffs for the first time in franchise history, but lost to the Minnesota Vikings 44–10. The next season of 1988 ended with a 10–6 record. In the year 2000, the Saints defeated the St. Louis Rams 31–28 to notch their first-ever playoff win. In 2005, Hurricane Katrina devastated New Orleans and much of the Gulf Coast region. The Superdome was used as an emergency temporary shelter for displaced residents. The stadium suffered damage from the hurricane (notably from flooding and part of the roof being torn off as well as internal damage), and from lack of available facilities. The Saints were forced to play their first scheduled home game against the New York Giants at Giants Stadium in East Rutherford, New Jersey (the Giants' home stadium); other home games were rescheduled at the Alamodome in San Antonio, Texas or Tiger Stadium in Baton Rouge, Louisiana. During the season, it was rumored that Saints owner Tom Benson might deem the Superdome unusable and seek to legally void his contract and relocate the team to San Antonio, where he has business interests. Ultimately, however, the Superdome was repaired and renovated in time for the 2006 season at an estimated cost of US$185 million. The New Orleans Saints' first post-Katrina home game was an emotionally charged Monday Night Football game versus their division rival, the Atlanta Falcons. The Saints, under rookie head coach Sean Payton and new quarterback Drew Brees, defeated the Falcons 23–3, and went on to notch the second playoff win in franchise history. The 2009 season was a historic one for the Saints. Winning a franchise-record 13 games, they qualified for Super Bowl XLIV and defeated the AFC champion Indianapolis Colts 31–17. To date, it is the only Super Bowl championship that they have won, and as it is the only Super Bowl the Saints have appeared in, they join the New York Jets and Tampa Bay Buccaneers as the only three NFL teams to win their lone Super Bowl appearance. Over the course of 49 seasons, the Saints have compiled an overall record of 331–418–5, with a regular-season record of 324–409–5 and a playoff record of 7–9." ;
+    Schema:coach <http://dbpedia.org/resource/Sean_Payton> ;
+    Schema:formationDate "1966-11-01"^^xsd:date ;
+    Schema:name "Philadelphia Eagles" ;
+    Schema:noSbChamps "1"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Tom_Benson> ;
+    Schema:sport "American Football" .
+
+NFL:2495275 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/28/1989"^^xsd:date ;
+    Schema:familyName "Dell" ;
+    Schema:givenName " Mark" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "195"^^xsd:int ;
+    NFL:college "Michigan State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:yearPlayed "2011"^^xsd:int,
+        "2012"^^xsd:int .
+
+NFL:2495605 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "2/6/1984"^^xsd:date ;
+    Schema:birthPlace "San Jose " ;
+    Schema:familyName "Frampton" ;
+    Schema:givenName " Eric" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "202"^^xsd:int ;
+    NFL:college "Washington State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "7"^^xsd:int ;
+    NFL:yearPlayed "2007"^^xsd:int,
+        "2008"^^xsd:int,
+        "2009"^^xsd:int,
+        "2010"^^xsd:int,
+        "2011"^^xsd:int,
+        "2012"^^xsd:int,
+        "2013"^^xsd:int .
+
+NFL:2495791 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:familyName "Zabransky" ;
+    Schema:givenName " Jared" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "219"^^xsd:int ;
+    NFL:college "Boise State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "2007"^^xsd:int .
+
+NFL:2499376 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:birthPlace "El Dorado " ;
+    Schema:familyName "Alderson" ;
+    Schema:givenName " Winston" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "344"^^xsd:int ;
+    NFL:college "Arkansas" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1997"^^xsd:int .
+
+NFL:25 a Schema:SportsTeam ;
+    rdfs:label "Pittsburgh Steelers"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:atlete NFL:2552444 ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "Pittsburgh Steelers" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:2500536 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Hamden " ;
+    Schema:familyName "Ellis" ;
+    Schema:givenName " Ed" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "325"^^xsd:int ;
+    NFL:college "Buffalo" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "8"^^xsd:int ;
+    NFL:yearPlayed "1997"^^xsd:int,
+        "1998"^^xsd:int,
+        "1999"^^xsd:int,
+        "2000"^^xsd:int,
+        "2001"^^xsd:int,
+        "2002"^^xsd:int,
+        "2003"^^xsd:int,
+        "2004"^^xsd:int .
+
+NFL:2502600 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "6/29/1977"^^xsd:date ;
+    Schema:birthPlace "Waxahachie " ;
+    Schema:familyName "Reagor" ;
+    Schema:givenName " Montae" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight "285"^^xsd:int ;
+    NFL:college "Texas Tech" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "10"^^xsd:int ;
+    NFL:yearPlayed "1999"^^xsd:int,
+        "2000"^^xsd:int,
+        "2001"^^xsd:int,
+        "2002"^^xsd:int,
+        "2003"^^xsd:int,
+        "2004"^^xsd:int,
+        "2005"^^xsd:int,
+        "2006"^^xsd:int,
+        "2007"^^xsd:int,
+        "2008"^^xsd:int .
+
+NFL:2502679 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/7/1962"^^xsd:date ;
+    Schema:birthPlace "Fort Ord " ;
+    Schema:familyName "Rivera" ;
+    Schema:givenName " Ron" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight "235"^^xsd:int ;
+    NFL:college "California" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "9"^^xsd:int ;
+    NFL:yearPlayed "1984"^^xsd:int,
+        "1985"^^xsd:int,
+        "1986"^^xsd:int,
+        "1987"^^xsd:int,
+        "1988"^^xsd:int,
+        "1989"^^xsd:int,
+        "1990"^^xsd:int,
+        "1991"^^xsd:int,
+        "1992"^^xsd:int .
+
+NFL:2503464 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "6/14/1963"^^xsd:date ;
+    Schema:birthPlace "New Orleans " ;
+    Schema:familyName "Verdin" ;
+    Schema:givenName " Clarence" ;
+    Schema:height "68"^^xsd:int ;
+    Schema:weight "160"^^xsd:int ;
+    NFL:college "Louisiana-Lafayette" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "9"^^xsd:int ;
+    NFL:yearPlayed "1986"^^xsd:int,
+        "1987"^^xsd:int,
+        "1988"^^xsd:int,
+        "1989"^^xsd:int,
+        "1990"^^xsd:int,
+        "1991"^^xsd:int,
+        "1992"^^xsd:int,
+        "1993"^^xsd:int,
+        "1994"^^xsd:int .
+
+NFL:2503572 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "4/12/1974"^^xsd:date ;
+    Schema:birthPlace "Jacksonville " ;
+    Schema:familyName "Weary" ;
+    Schema:givenName " Fred" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "181"^^xsd:int ;
+    NFL:college "Florida" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "6"^^xsd:int ;
+    NFL:yearPlayed "1998"^^xsd:int,
+        "1999"^^xsd:int,
+        "2000"^^xsd:int,
+        "2001"^^xsd:int,
+        "2002"^^xsd:int,
+        "2003"^^xsd:int .
+
+NFL:2504264 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/8/1977"^^xsd:date ;
+    Schema:birthPlace "Houston " ;
+    Schema:familyName "Webster" ;
+    Schema:givenName " Jason" ;
+    Schema:height "69"^^xsd:int ;
+    Schema:weight "187"^^xsd:int ;
+    NFL:college "Texas A&M" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "9"^^xsd:int ;
+    NFL:yearPlayed "2000"^^xsd:int,
+        "2001"^^xsd:int,
+        "2002"^^xsd:int,
+        "2003"^^xsd:int,
+        "2004"^^xsd:int,
+        "2005"^^xsd:int,
+        "2006"^^xsd:int,
+        "2007"^^xsd:int,
+        "2008"^^xsd:int .
+
+NFL:2504395 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/17/1978"^^xsd:date ;
+    Schema:birthPlace "Fort Wayne " ;
+    Schema:familyName "Baker" ;
+    Schema:givenName " Jason" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "205"^^xsd:int ;
+    NFL:college "Iowa" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "11"^^xsd:int ;
+    NFL:yearPlayed "2001"^^xsd:int,
+        "2002"^^xsd:int,
+        "2003"^^xsd:int,
+        "2004"^^xsd:int,
+        "2005"^^xsd:int,
+        "2006"^^xsd:int,
+        "2007"^^xsd:int,
+        "2008"^^xsd:int,
+        "2009"^^xsd:int,
+        "2010"^^xsd:int,
+        "2011"^^xsd:int .
+
+NFL:2504656 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/6/1978"^^xsd:date ;
+    Schema:birthPlace "San Luis Obispo Co. " ;
+    Schema:familyName "Tafoya" ;
+    Schema:givenName " Joe" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "258"^^xsd:int ;
+    NFL:college "Arizona" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "7"^^xsd:int ;
+    NFL:yearPlayed "2001"^^xsd:int,
+        "2002"^^xsd:int,
+        "2003"^^xsd:int,
+        "2004"^^xsd:int,
+        "2005"^^xsd:int,
+        "2006"^^xsd:int,
+        "2007"^^xsd:int,
+        "2008"^^xsd:int .
+
+NFL:2506142 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "3/3/1983"^^xsd:date ;
+    Schema:familyName "Wallace" ;
+    Schema:givenName " Kyle" ;
+    Schema:height "78"^^xsd:int ;
+    Schema:weight "295"^^xsd:int ;
+    NFL:college "Georgia Tech" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "2005"^^xsd:int .
+
+NFL:2506362 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "6/9/1983"^^xsd:date ;
+    Schema:birthPlace "Bradenton " ;
+    Schema:familyName "Washington" ;
+    Schema:givenName " Fabian" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "175"^^xsd:int ;
+    NFL:college "Nebraska" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "7"^^xsd:int ;
+    NFL:yearPlayed "2005"^^xsd:int,
+        "2006"^^xsd:int,
+        "2007"^^xsd:int,
+        "2008"^^xsd:int,
+        "2009"^^xsd:int,
+        "2010"^^xsd:int,
+        "2011"^^xsd:int .
+
+NFL:2507719 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/4/1986"^^xsd:date ;
+    Schema:birthPlace "Pensacola " ;
+    Schema:familyName "Randolph" ;
+    Schema:givenName " Dane" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "310"^^xsd:int ;
+    NFL:college "Maryland" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "0"^^xsd:int ;
+    NFL:yearPlayed "2009"^^xsd:int .
+
+NFL:2507748 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1101-01-01"^^xsd:date ;
+    Schema:familyName "Goldberg" ;
+    Schema:givenName " Cameron" ;
+    Schema:height "78"^^xsd:int ;
+    Schema:weight "265"^^xsd:int ;
+    NFL:college "Duke" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "2009"^^xsd:int .
+
+NFL:2508869 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/30/1937"^^xsd:date ;
+    Schema:birthPlace "Coffeyville " ;
+    Schema:familyName "Baker" ;
+    Schema:givenName " Dave" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight "192"^^xsd:int ;
+    NFL:college "Oklahoma" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:yearPlayed "1959"^^xsd:int,
+        "1960"^^xsd:int,
+        "1961"^^xsd:int .
+
+NFL:2509130 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/21/1939"^^xsd:date ;
+    Schema:birthPlace "Laurel " ;
+    Schema:familyName "Bass" ;
+    Schema:givenName " Norm" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight "210"^^xsd:int ;
+    NFL:college "U. of Pacific" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1964"^^xsd:int .
+
+NFL:2509286 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "2/9/1896"^^xsd:date ;
+    Schema:birthPlace "Cleveland " ;
+    Schema:familyName "Beckwith" ;
+    Schema:givenName " Norm" ;
+    Schema:height ""^^xsd:int ;
+    Schema:weight "150"^^xsd:int ;
+    NFL:college "No College" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1920"^^xsd:int .
+
+NFL:2509361 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "6/14/1957"^^xsd:date ;
+    Schema:birthPlace "Jamestown " ;
+    Schema:familyName "Bell" ;
+    Schema:givenName " Mark" ;
+    Schema:height "69"^^xsd:int ;
+    Schema:weight "175"^^xsd:int ;
+    NFL:college "Colorado State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:yearPlayed "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2512416 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "3/3/1943"^^xsd:date ;
+    Schema:birthPlace "Brooklyn " ;
+    Schema:familyName "D'Amato" ;
+    Schema:givenName " Mike" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "205"^^xsd:int ;
+    NFL:college "Hofstra" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1968"^^xsd:int .
+
+NFL:2512457 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/14/1954"^^xsd:date ;
+    Schema:birthPlace "Miami " ;
+    Schema:familyName "Darby" ;
+    Schema:givenName " Al" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "221"^^xsd:int ;
+    NFL:college "Florida" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int .
+
+NFL:2512597 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/21/1953"^^xsd:date ;
+    Schema:birthPlace "Tecumseh " ;
+    Schema:familyName "Davis" ;
+    Schema:givenName " Tony" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "212"^^xsd:int ;
+    NFL:college "Nebraska" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "6"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2512778 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:birthPlace "Indianola " ;
+    Schema:familyName "Demory" ;
+    Schema:givenName " Bill" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "195"^^xsd:int ;
+    NFL:college "Arizona" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:yearPlayed "1973"^^xsd:int,
+        "1974"^^xsd:int .
+
+NFL:2512828 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/15/1967"^^xsd:date ;
+    Schema:birthPlace "Scranton " ;
+    Schema:familyName "DeRiggi" ;
+    Schema:givenName " Fred" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "268"^^xsd:int ;
+    NFL:college "Syracuse" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1990"^^xsd:int .
+
+NFL:2513563 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "4/23/1959"^^xsd:date ;
+    Schema:birthPlace "New York " ;
+    Schema:familyName "Elliott" ;
+    Schema:givenName " Tony" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "282"^^xsd:int ;
+    NFL:college "North Texas" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "7"^^xsd:int ;
+    NFL:yearPlayed "1982"^^xsd:int,
+        "1983"^^xsd:int,
+        "1984"^^xsd:int,
+        "1985"^^xsd:int,
+        "1986"^^xsd:int,
+        "1987"^^xsd:int,
+        "1988"^^xsd:int .
+
+NFL:2513736 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/23/1921"^^xsd:date ;
+    Schema:birthPlace "Grand Rapids " ;
+    Schema:familyName "Evans" ;
+    Schema:givenName " Fred" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "185"^^xsd:int ;
+    NFL:college "Notre Dame" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:yearPlayed "1946"^^xsd:int,
+        "1947"^^xsd:int,
+        "1948"^^xsd:int .
+
+NFL:2513861 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/16/1920"^^xsd:date ;
+    Schema:birthPlace "Casper " ;
+    Schema:familyName "Farris" ;
+    Schema:givenName " Tom" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "185"^^xsd:int ;
+    NFL:college "Wisconsin" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:yearPlayed "1946"^^xsd:int,
+        "1947"^^xsd:int,
+        "1948"^^xsd:int .
+
+NFL:2514196 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/30/1958"^^xsd:date ;
+    Schema:birthPlace "Cincinnati " ;
+    Schema:familyName "Foley" ;
+    Schema:givenName " Tim" ;
+    Schema:height "78"^^xsd:int ;
+    Schema:weight "275"^^xsd:int ;
+    NFL:college "Notre Dame" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1981"^^xsd:int .
+
+NFL:2514295 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/11/1960"^^xsd:date ;
+    Schema:birthPlace "Temple " ;
+    Schema:familyName "Fowler" ;
+    Schema:givenName " Bobby" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "230"^^xsd:int ;
+    NFL:college "Louisiana Tech" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1985"^^xsd:int .
+
+NFL:2514537 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "6/21/1929"^^xsd:date ;
+    Schema:birthPlace "Akron " ;
+    Schema:familyName "Gain" ;
+    Schema:givenName " Bob" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight "256"^^xsd:int ;
+    NFL:college "Kentucky" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "12"^^xsd:int ;
+    NFL:yearPlayed "1952"^^xsd:int,
+        "1953"^^xsd:int,
+        "1954"^^xsd:int,
+        "1955"^^xsd:int,
+        "1956"^^xsd:int,
+        "1957"^^xsd:int,
+        "1958"^^xsd:int,
+        "1959"^^xsd:int,
+        "1960"^^xsd:int,
+        "1961"^^xsd:int,
+        "1962"^^xsd:int,
+        "1963"^^xsd:int,
+        "1964"^^xsd:int .
+
+NFL:2514740 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/12/1924"^^xsd:date ;
+    Schema:birthPlace "Long Island " ;
+    Schema:familyName "Gehrke" ;
+    Schema:givenName " Bruce" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "190"^^xsd:int ;
+    NFL:college "Columbia" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1948"^^xsd:int .
+
+NFL:2515030 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "2/23/1919"^^xsd:date ;
+    Schema:birthPlace "Alverton " ;
+    Schema:familyName "Gonda" ;
+    Schema:givenName " George" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "175"^^xsd:int ;
+    NFL:college "Duquesne" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1942"^^xsd:int .
+
+NFL:2515842 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Selma " ;
+    Schema:familyName "Harkey" ;
+    Schema:givenName " Lance" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "180"^^xsd:int ;
+    NFL:college "Illinois" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1987"^^xsd:int .
+
+NFL:2518101 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/29/1983"^^xsd:date ;
+    Schema:familyName "Kaleita" ;
+    Schema:givenName " Tom" ;
+    Schema:height "78"^^xsd:int ;
+    Schema:weight "318"^^xsd:int ;
+    NFL:college "Eastern Michigan" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "0"^^xsd:int ;
+    NFL:yearPlayed "2006"^^xsd:int .
+
+NFL:2518471 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/16/1950"^^xsd:date ;
+    Schema:birthPlace "Houston " ;
+    Schema:familyName "Kindle" ;
+    Schema:givenName " Greg" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "265"^^xsd:int ;
+    NFL:college "Tennessee State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:yearPlayed "1974"^^xsd:int,
+        "1975"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int .
+
+NFL:2518652 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "3/19/1919"^^xsd:date ;
+    Schema:birthPlace "Chicago " ;
+    Schema:familyName "Knolla" ;
+    Schema:givenName " Johnny" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "180"^^xsd:int ;
+    NFL:college "Creighton" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:yearPlayed "1942"^^xsd:int,
+        "1943"^^xsd:int,
+        "1944"^^xsd:int,
+        "1945"^^xsd:int .
+
+NFL:2519112 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Greenfield " ;
+    Schema:familyName "Larson" ;
+    Schema:givenName " Bill" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "225"^^xsd:int ;
+    NFL:college "Colorado State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:yearPlayed "1975"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int .
+
+NFL:2519453 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/23/1936"^^xsd:date ;
+    Schema:birthPlace "Los Angeles " ;
+    Schema:familyName "Lewis" ;
+    Schema:givenName " Joe" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "256"^^xsd:int ;
+    NFL:college "Compton CC CA" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "5"^^xsd:int ;
+    NFL:yearPlayed "1958"^^xsd:int,
+        "1959"^^xsd:int,
+        "1960"^^xsd:int,
+        "1961"^^xsd:int,
+        "1962"^^xsd:int .
+
+NFL:2520035 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "6/18/1910"^^xsd:date ;
+    Schema:birthPlace "Hillsboro " ;
+    Schema:familyName "Malone" ;
+    Schema:givenName " Chuck" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "206"^^xsd:int ;
+    NFL:college "Texas A&M" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "8"^^xsd:int ;
+    NFL:yearPlayed "1934"^^xsd:int,
+        "1935"^^xsd:int,
+        "1936"^^xsd:int,
+        "1937"^^xsd:int,
+        "1938"^^xsd:int,
+        "1939"^^xsd:int,
+        "1940"^^xsd:int,
+        "1941"^^xsd:int,
+        "1942"^^xsd:int .
+
+NFL:2520333 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:birthPlace "Rocky Mount " ;
+    Schema:familyName "Mathis" ;
+    Schema:givenName " Bill" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "220"^^xsd:int ;
+    NFL:college "Clemson" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "10"^^xsd:int ;
+    NFL:yearPlayed "1960"^^xsd:int,
+        "1961"^^xsd:int,
+        "1962"^^xsd:int,
+        "1963"^^xsd:int,
+        "1964"^^xsd:int,
+        "1965"^^xsd:int,
+        "1966"^^xsd:int,
+        "1967"^^xsd:int,
+        "1968"^^xsd:int,
+        "1969"^^xsd:int .
+
+NFL:2522114 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1101-01-01"^^xsd:date ;
+    Schema:birthPlace "St. Helena " ;
+    Schema:familyName "Nichelini" ;
+    Schema:givenName " Al" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "207"^^xsd:int ;
+    NFL:college "St. Mary's (CA)" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:yearPlayed "1935"^^xsd:int,
+        "1936"^^xsd:int .
+
+NFL:2522592 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:birthPlace "St. Louis " ;
+    Schema:familyName "Otto" ;
+    Schema:givenName " Gus" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "220"^^xsd:int ;
+    NFL:college "Missouri" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "8"^^xsd:int ;
+    NFL:yearPlayed "1965"^^xsd:int,
+        "1966"^^xsd:int,
+        "1967"^^xsd:int,
+        "1968"^^xsd:int,
+        "1969"^^xsd:int,
+        "1970"^^xsd:int,
+        "1971"^^xsd:int,
+        "1972"^^xsd:int .
+
+NFL:2523136 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/11/1892"^^xsd:date ;
+    Schema:birthPlace "Sumner " ;
+    Schema:familyName "Petty" ;
+    Schema:givenName " Ross" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "180"^^xsd:int ;
+    NFL:college "Illinois" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1920"^^xsd:int .
+
+NFL:2523147 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/31/1947"^^xsd:date ;
+    Schema:birthPlace "Canton " ;
+    Schema:familyName "Pharr" ;
+    Schema:givenName " Tommy" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "187"^^xsd:int ;
+    NFL:college "Mississippi State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1970"^^xsd:int .
+
+NFL:2523695 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "2/10/1961"^^xsd:date ;
+    Schema:birthPlace "Alton " ;
+    Schema:familyName "Raglin" ;
+    Schema:givenName " Floyd" ;
+    Schema:height "69"^^xsd:int ;
+    Schema:weight "180"^^xsd:int ;
+    NFL:college "Southern University" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1987"^^xsd:int .
+
+NFL:2523700 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:birthPlace "Dayton " ;
+    Schema:familyName "Raiff" ;
+    Schema:givenName " Jim" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "235"^^xsd:int ;
+    NFL:college "Dayton" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1954"^^xsd:int .
+
+NFL:2523928 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/14/1927"^^xsd:date ;
+    Schema:birthPlace "Bridgeton " ;
+    Schema:familyName "Reid" ;
+    Schema:givenName " Breezy" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "187"^^xsd:int ;
+    NFL:college "Georgia" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "7"^^xsd:int ;
+    NFL:yearPlayed "1950"^^xsd:int,
+        "1951"^^xsd:int,
+        "1952"^^xsd:int,
+        "1953"^^xsd:int,
+        "1954"^^xsd:int,
+        "1955"^^xsd:int,
+        "1956"^^xsd:int .
+
+NFL:2524829 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/7/1956"^^xsd:date ;
+    Schema:birthPlace "Baytown " ;
+    Schema:familyName "Sampson" ;
+    Schema:givenName " Howard" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "185"^^xsd:int ;
+    NFL:college "Arkansas" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:yearPlayed "1978"^^xsd:int,
+        "1979"^^xsd:int .
+
+NFL:2524989 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "8/12/1930"^^xsd:date ;
+    Schema:birthPlace "Baltimore " ;
+    Schema:familyName "Scarbath" ;
+    Schema:givenName " Jack" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "206"^^xsd:int ;
+    NFL:college "Maryland" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:yearPlayed "1953"^^xsd:int,
+        "1954"^^xsd:int,
+        "1955"^^xsd:int,
+        "1956"^^xsd:int .
+
+NFL:2525128 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Birmingham " ;
+    Schema:familyName "Schuler" ;
+    Schema:givenName " Bill" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight "215"^^xsd:int ;
+    NFL:college "Yale" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:yearPlayed "1947"^^xsd:int,
+        "1948"^^xsd:int .
+
+NFL:2525255 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/16/1960"^^xsd:date ;
+    Schema:birthPlace "Ann Arbor " ;
+    Schema:familyName "Sealby" ;
+    Schema:givenName " Randy" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "230"^^xsd:int ;
+    NFL:college "Missouri" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1987"^^xsd:int .
+
+NFL:2525335 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/22/1918"^^xsd:date ;
+    Schema:birthPlace "Chicopee Falls " ;
+    Schema:familyName "Sergienko" ;
+    Schema:givenName " George" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "248"^^xsd:int ;
+    NFL:college "American International" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:yearPlayed "1943"^^xsd:int,
+        "1944"^^xsd:int,
+        "1945"^^xsd:int,
+        "1946"^^xsd:int .
+
+NFL:2527011 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "3/8/1945"^^xsd:date ;
+    Schema:birthPlace "Orlando " ;
+    Schema:familyName "Tanner" ;
+    Schema:givenName " John" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "231"^^xsd:int ;
+    NFL:college "Tennessee Tech" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:yearPlayed "1971"^^xsd:int,
+        "1972"^^xsd:int,
+        "1973"^^xsd:int,
+        "1974"^^xsd:int .
+
+NFL:2527085 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Richmond " ;
+    Schema:familyName "Taylor" ;
+    Schema:givenName " Greg" ;
+    Schema:height "68"^^xsd:int ;
+    Schema:weight "175"^^xsd:int ;
+    NFL:college "Virginia" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1982"^^xsd:int .
+
+NFL:2527193 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/11/1949"^^xsd:date ;
+    Schema:birthPlace "Brownsville " ;
+    Schema:familyName "Thaxton" ;
+    Schema:givenName " Jim" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "240"^^xsd:int ;
+    NFL:college "Tennessee State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "5"^^xsd:int ;
+    NFL:yearPlayed "1973"^^xsd:int,
+        "1974"^^xsd:int,
+        "1975"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int .
+
+NFL:2527241 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/1/1942"^^xsd:date ;
+    Schema:birthPlace "Barberton " ;
+    Schema:familyName "Thomas" ;
+    Schema:givenName " Gene" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "210"^^xsd:int ;
+    NFL:college "Florida A&M" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:yearPlayed "1966"^^xsd:int,
+        "1967"^^xsd:int,
+        "1968"^^xsd:int .
+
+NFL:2527303 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate ""^^xsd:date ;
+    Schema:familyName "Thompson" ;
+    Schema:givenName " Pinky" ;
+    Schema:height ""^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "No College" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1927"^^xsd:int .
+
+NFL:2530581 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/12/1988"^^xsd:date ;
+    Schema:birthPlace "Carbondale " ;
+    Schema:familyName "Hall" ;
+    Schema:givenName " Bryan" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight "280"^^xsd:int ;
+    NFL:college "Arkansas State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:yearPlayed "2011"^^xsd:int,
+        "2012"^^xsd:int,
+        "2013"^^xsd:int .
+
+NFL:2530729 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Evanston " ;
+    Schema:familyName "Riley" ;
+    Schema:givenName " Chris" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "305"^^xsd:int ;
+    NFL:college "Illinois State" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "2011"^^xsd:int,
+        "2012"^^xsd:int .
+
+NFL:2530849 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "2/18/1987"^^xsd:date ;
+    Schema:birthPlace "Frankfurt Germany" ;
+    Schema:familyName "Lewis" ;
+    Schema:givenName " Andrew" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "303"^^xsd:int ;
+    NFL:college "Syracuse" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "2011"^^xsd:int .
+
+NFL:2532782 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1101-01-01"^^xsd:date ;
+    Schema:birthPlace "Little Rock " ;
+    Schema:familyName "Adams" ;
+    Schema:givenName " Joe" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "185"^^xsd:int ;
+    NFL:college "Arkansas" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:yearPlayed "2012"^^xsd:int,
+        "2013"^^xsd:int,
+        "2014"^^xsd:int .
+
+NFL:2541732 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "2/15/1990"^^xsd:date ;
+    Schema:birthPlace "Reno " ;
+    Schema:familyName "Nady" ;
+    Schema:givenName " Jeff" ;
+    Schema:height "79"^^xsd:int ;
+    Schema:weight "305"^^xsd:int ;
+    NFL:college "Nevada" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "2013"^^xsd:int .
+
+NFL:2541971 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/3/1990"^^xsd:date ;
+    Schema:familyName "Castillo" ;
+    Schema:givenName " Greg" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "187"^^xsd:int ;
+    NFL:college "Iowa" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "2013"^^xsd:int .
+
+NFL:2550652 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/24/1991"^^xsd:date ;
+    Schema:familyName "James" ;
+    Schema:givenName " Waymon" ;
+    Schema:height "68"^^xsd:int ;
+    Schema:weight "203"^^xsd:int ;
+    NFL:college "Texas Christian" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "2014"^^xsd:int .
+
+NFL:26 a Schema:SportsTeam ;
+    rdfs:label "Los Angeles Chargers"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:atlete NFL:2495483,
+        NFL:2553355,
+        NFL:2557873 ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "Los Angeles Chargers" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:27 a Schema:SportsTeam ;
+    rdfs:label "San Francisco 49ers"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:atlete NFL:496980 ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "San Francisco 49ers" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:28 a Schema:SportsTeam ;
+    rdfs:label "Seattle Seahawks"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:atlete NFL:2556524 ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "Seattle Seahawks" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:29 a Schema:SportsTeam ;
+    rdfs:label "Los Angeles Rams"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:atlete NFL:2532877 ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "Los Angeles Rams" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:3 a Schema:SportsTeam ;
+    rdfs:label "Baltimore Ravens"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Baltimore Ravens" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:30 a Schema:SportsTeam ;
+    rdfs:label "Tampa Bay Buccaneers"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "Tampa Bay Buccaneers" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:31 a Schema:SportsTeam ;
+    rdfs:label "Tennessee Titans"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:atlete NFL:2550132 ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "Tennessee Titans" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:32 a Schema:SportsTeam ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:abstract "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in 1933, the Steelers are the oldest franchise in the AFC. In contrast with their status as perennial also-rans in the pre-merger NFL, where they were the oldest team to never win a league championship, the Steelers of the post-merger (modern) era are one of the most successful NFL franchises. Pittsburgh has won more Super Bowl titles (6), and hosted more (11) conference championship games than any other NFL team. The Steelers share the record for most AFC championships with the New England Patriots and the Denver Broncos (8), and the record for most conference championship games played in with the San Francisco 49ers (15). The Steelers share the record for most Super Bowl appearances with the Patriots, Broncos, and Dallas Cowboys (8). The Steelers lost their most recent championship appearance, Super Bowl XLV, on February 6, 2011. The Steelers were founded as the Pittsburgh Pirates on July 8, 1933, by Art Rooney, taking its original name from the baseball team of the same name, as was common practice for NFL teams at the time. To distinguish them from the baseball team, local media took to calling the football team the Rooneymen, an unofficial nickname which persisted for decades after the team adopted its current nickname. The ownership of the Steelers has remained within the Rooney family since its founding. The current owner is Art's son, Dan Rooney, who has given much control of the franchise to his son Art Rooney II. Long one of the NFL's flagship teams, the Steelers enjoy a large, widespread fanbase nicknamed Steeler Nation. The Steelers currently play their home games at Heinz Field on Pittsburgh's North Side in the North Shore neighborhood, which also hosts the University of Pittsburgh Panthers. Built in 2001, the stadium replaced Three Rivers Stadium which hosted the Steelers for 31 seasons. Prior to Three Rivers, the Steelers had played their games in Pitt Stadium and Forbes Field." ;
+    Schema:atlete NFL:2495809,
+        NFL:2553801,
+        NFL:2557450 ;
+    Schema:coach <http://dbpedia.org/resource/Mike_Tomlin> ;
+    Schema:formationDate "1933-05-19"^^xsd:date ;
+    Schema:name "Washington Redskins" ;
+    Schema:noSbChamps "6"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
+    Schema:sport "American Football" .
+
+NFL:4 a Schema:SportsTeam ;
+    rdfs:label "Buffalo Bills"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2556677,
+        NFL:81306 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Buffalo Bills" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:5 a Schema:SportsTeam ;
+    rdfs:label "Carolina Panthers"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:494261 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Carolina Panthers" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:6 a Schema:SportsTeam ;
+    rdfs:label "Chicago Bears"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Chicago Bears" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:7 a Schema:SportsTeam ;
+    rdfs:label "Cincinnati Bengals"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2540251 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Cincinnati Bengals" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:79593 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/30/1986"^^xsd:date ;
+    Schema:birthPlace "New Orleans " ;
+    Schema:familyName "Johnson" ;
+    Schema:givenName " Quinn" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "255"^^xsd:int ;
+    NFL:college "LSU" ;
+    NFL:currentStatus "Retired" ;
+    NFL:experience "5"^^xsd:int ;
+    NFL:yearPlayed "2009"^^xsd:int,
+        "2010"^^xsd:int,
+        "2011"^^xsd:int,
+        "2012"^^xsd:int,
+        "2013"^^xsd:int .
+
+NFL:8 a Schema:SportsTeam ;
+    rdfs:label "Cleveland Browns"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:atlete NFL:2532905 ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Cleveland Browns" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:9 a Schema:SportsTeam ;
+    rdfs:label "Dallas Cowboys"@en ;
+    Schema:abstract "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. The Falcons compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons joined the NFL in 1965 as an expansion team, after the NFL offered then-owner Rankin Smith a franchise to keep him from joining the rival American Football League (AFL). The AFL instead granted a franchise to Miami (the Miami Dolphins). The Falcons are tied with the Dolphins (who also began play in 1966) for being the oldest NFL franchise in the Deep South, and are the oldest NFC team in that region. In their 51 years of existence, the Falcons have compiled a record of 316–414–6, winning division championships in 1980, 1998, 2004, 2010, and 2012. Their only Super Bowl appearance was during the 1998 season in Super Bowl XXXIII. The Falcons play their home games at the Georgia Dome in downtown Atlanta. Construction began on Mercedes-Benz Stadium in May 2014, with play projected to begin there during the 2017 season. Their headquarters and practice facilities are located at a 50-acre site in Flowery Branch, Georgia." ;
+    Schema:coach <http://dbpedia.org/resource/Dan_Quinn_(American_football)> ;
+    Schema:formationDate "1965-06-30"^^xsd:date ;
+    Schema:name "Dallas Cowboys" ;
+    Schema:noSbChamps "41"^^xsd:int ;
+    Schema:owner <http://dbpedia.org/resource/Arthur_Blank> ;
+    Schema:sport "American Football" .
+
+NFL:238498 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/22/1986"^^xsd:date ;
+    Schema:birthPlace "Redwood City " ;
+    Schema:familyName "Edelman" ;
+    Schema:givenName " Julian" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Kent State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "9"^^xsd:int ;
+    NFL:highSchool "Woodside " ;
+    NFL:playerNumber "11"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2495164 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/1/1987"^^xsd:date ;
+    Schema:birthPlace "Kirkwood " ;
+    Schema:familyName "Herzlich" ;
+    Schema:givenName " Mark" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "246"^^xsd:int ;
+    NFL:college "Boston College" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "7"^^xsd:int ;
+    NFL:highSchool "Conestoga " ;
+    NFL:playerNumber "44"^^xsd:int ;
+    NFL:position "OLB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2495483 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "3/18/1990"^^xsd:date ;
+    Schema:birthPlace "Miami " ;
+    Schema:familyName "Liuget" ;
+    Schema:givenName " Corey" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "300"^^xsd:int ;
+    NFL:college "Illinois" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "7"^^xsd:int ;
+    NFL:highSchool "Hialeah " ;
+    NFL:playerNumber "94"^^xsd:int ;
+    NFL:position "DE" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2495809 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Providence " ;
+    Schema:familyName "Blackmon" ;
+    Schema:givenName " Will" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight "212"^^xsd:int ;
+    NFL:college "Boston College" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "11"^^xsd:int ;
+    NFL:highSchool "Bishop Hendricken " ;
+    NFL:playerNumber "41"^^xsd:int ;
+    NFL:position "FS" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2508043 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1101-01-01"^^xsd:date ;
+    Schema:birthPlace "Fort Myers " ;
+    Schema:familyName "Allen" ;
+    Schema:givenName " Nate" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight "210"^^xsd:int ;
+    NFL:college "South Florida" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "8"^^xsd:int ;
+    NFL:highSchool "Cape Coral " ;
+    NFL:position "DB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int,
+        "1998"^^xsd:int,
+        "1999"^^xsd:int,
+        "2000"^^xsd:int,
+        "2001"^^xsd:int,
+        "2002"^^xsd:int,
+        "2003"^^xsd:int .
+
+NFL:2508101 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/23/1988"^^xsd:date ;
+    Schema:birthPlace "West Chester " ;
+    Schema:familyName "Develin" ;
+    Schema:givenName " James" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Brown" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "5"^^xsd:int ;
+    NFL:highSchool "Boyertown Area " ;
+    NFL:playerNumber "46"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2532859 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/16/1989"^^xsd:date ;
+    Schema:birthPlace "Bakersfield " ;
+    Schema:familyName "Harris" ;
+    Schema:givenName " Bryce" ;
+    Schema:height "78"^^xsd:int ;
+    Schema:weight "300"^^xsd:int ;
+    NFL:college "Fresno State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "6"^^xsd:int ;
+    NFL:highSchool "Tulare " ;
+    NFL:position "T" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2532873 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/11/1990"^^xsd:date ;
+    Schema:birthPlace "Los Angeles " ;
+    Schema:familyName "Jackson" ;
+    Schema:givenName " Malik" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "300"^^xsd:int ;
+    NFL:college "Tennessee" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "6"^^xsd:int ;
+    NFL:highSchool "Birmingham " ;
+    NFL:playerNumber "90"^^xsd:int ;
+    NFL:position "DT" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2532877 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/1/1990"^^xsd:date ;
+    Schema:birthPlace "Stockton " ;
+    Schema:familyName "Johnson" ;
+    Schema:givenName " Trumaine" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "208"^^xsd:int ;
+    NFL:college "Montana" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "6"^^xsd:int ;
+    NFL:highSchool "Edison " ;
+    NFL:playerNumber "22"^^xsd:int ;
+    NFL:position "CB" ;
+    NFL:yearPlayed "1960"^^xsd:int,
+        "1961"^^xsd:int,
+        "1962"^^xsd:int,
+        "1963"^^xsd:int,
+        "1964"^^xsd:int,
+        "1965"^^xsd:int,
+        "1966"^^xsd:int,
+        "1967"^^xsd:int,
+        "1968"^^xsd:int,
+        "1969"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2532905 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "8/18/1989"^^xsd:date ;
+    Schema:birthPlace "Mobile " ;
+    Schema:familyName "McCants" ;
+    Schema:givenName " Matt" ;
+    Schema:height "78"^^xsd:int ;
+    Schema:weight "310"^^xsd:int ;
+    NFL:college "Alabama-Birmingham" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "5"^^xsd:int ;
+    NFL:highSchool "Lillie B. Williamson " ;
+    NFL:position "T" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2532907 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "8/1/1989"^^xsd:date ;
+    Schema:birthPlace "Caldwell " ;
+    Schema:familyName "McClellin" ;
+    Schema:givenName " Shea" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Boise State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "6"^^xsd:int ;
+    NFL:highSchool "Marsing " ;
+    NFL:playerNumber "58"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2533062 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/19/1990"^^xsd:date ;
+    Schema:birthPlace "Rock Hill " ;
+    Schema:familyName "Gilmore" ;
+    Schema:givenName " Stephon" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "South Carolina" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "6"^^xsd:int ;
+    NFL:highSchool "South Pointe " ;
+    NFL:playerNumber "24"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2535132 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:birthPlace "Columbus " ;
+    Schema:familyName "Ebner" ;
+    Schema:givenName " Nate" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Ohio State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "6"^^xsd:int ;
+    NFL:highSchool "Hilliard Davidson " ;
+    NFL:playerNumber "43"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2539307 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/19/1990"^^xsd:date ;
+    Schema:birthPlace "San Diego " ;
+    Schema:familyName "Holmes" ;
+    Schema:givenName " Khaled" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight "309"^^xsd:int ;
+    NFL:college "USC" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "Mater Dei " ;
+    NFL:position "C" ;
+    NFL:yearPlayed "1973"^^xsd:int,
+        "1974"^^xsd:int,
+        "1975"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2540251 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/17/1990"^^xsd:date ;
+    Schema:birthPlace "Moncks Corner " ;
+    Schema:familyName "Johnson" ;
+    Schema:givenName " T.J." ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "300"^^xsd:int ;
+    NFL:college "South Carolina" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:highSchool "Aynor " ;
+    NFL:playerNumber "60"^^xsd:int ;
+    NFL:position "OG" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2543498 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/25/1993"^^xsd:date ;
+    Schema:birthPlace "Stockton " ;
+    Schema:familyName "Cooks" ;
+    Schema:givenName " Brandin" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Oregon State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:highSchool "Lincoln " ;
+    NFL:playerNumber "14"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2543640 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "4/26/1990"^^xsd:date ;
+    Schema:birthPlace "Clifton Heights " ;
+    Schema:familyName "Savage" ;
+    Schema:givenName " Tom" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "230"^^xsd:int ;
+    NFL:college "Pittsburgh" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:highSchool "Cardinal O'Hara " ;
+    NFL:playerNumber "3"^^xsd:int ;
+    NFL:position "QB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int,
+        "2009"^^xsd:int .
+
+NFL:2543689 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/23/1989"^^xsd:date ;
+    Schema:birthPlace "Biloxi " ;
+    Schema:familyName "Norwood" ;
+    Schema:givenName " Kevin" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "210"^^xsd:int ;
+    NFL:college "Alabama" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "D'lberville " ;
+    NFL:position "WR" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2543862 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "9/23/1991"^^xsd:date ;
+    Schema:birthPlace "Matteson " ;
+    Schema:familyName "Fulton" ;
+    Schema:givenName " Zach" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "316"^^xsd:int ;
+    NFL:college "Tennessee" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:highSchool "Homewood-Flossmoor " ;
+    NFL:playerNumber "73"^^xsd:int ;
+    NFL:position "G" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2550132 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/22/1991"^^xsd:date ;
+    Schema:birthPlace "Scottsdale " ;
+    Schema:familyName "Lewan" ;
+    Schema:givenName " Taylor" ;
+    Schema:height "79"^^xsd:int ;
+    Schema:weight "309"^^xsd:int ;
+    NFL:college "Michigan" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:highSchool "Cactus Shadows " ;
+    NFL:playerNumber "77"^^xsd:int ;
+    NFL:position "T" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2550164 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/28/1990"^^xsd:date ;
+    Schema:birthPlace "Rodeo " ;
+    Schema:familyName "Carrie" ;
+    Schema:givenName " T.J." ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight "205"^^xsd:int ;
+    NFL:college "Ohio U." ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "4"^^xsd:int ;
+    NFL:highSchool "De La Salle " ;
+    NFL:playerNumber "38"^^xsd:int ;
+    NFL:position "SS" ;
+    NFL:yearPlayed "1975"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int .
+
+NFL:2552255 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Cleveland " ;
+    Schema:familyName "Rowe" ;
+    Schema:givenName " Eric" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Utah" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "Klein " ;
+    NFL:playerNumber "25"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2552263 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/15/1992"^^xsd:date ;
+    Schema:birthPlace "Canton " ;
+    Schema:familyName "Rollins" ;
+    Schema:givenName " Quinten" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "195"^^xsd:int ;
+    NFL:college "Miami (Ohio)" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "Wilmington " ;
+    NFL:playerNumber "24"^^xsd:int ;
+    NFL:position "CB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2552271 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "6/4/1992"^^xsd:date ;
+    Schema:birthPlace "Lyons " ;
+    Schema:familyName "Grissom" ;
+    Schema:givenName " Geneo" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Oklahoma" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "Hutchinson " ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2552392 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/21/1993"^^xsd:date ;
+    Schema:birthPlace "Sacramento " ;
+    Schema:familyName "Richards" ;
+    Schema:givenName " Jordan" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Stanford" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "Folsom " ;
+    NFL:playerNumber "37"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2552444 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "3/31/1992"^^xsd:date ;
+    Schema:birthPlace "Detroit " ;
+    Schema:familyName "Walton" ;
+    Schema:givenName " L.T." ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "305"^^xsd:int ;
+    NFL:college "Central Michigan" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "Clintondale " ;
+    NFL:playerNumber "96"^^xsd:int ;
+    NFL:position "DE" ;
+    NFL:yearPlayed "2009"^^xsd:int,
+        "2010"^^xsd:int,
+        "2011"^^xsd:int,
+        "2012"^^xsd:int,
+        "2013"^^xsd:int .
+
+NFL:2552657 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Houston " ;
+    Schema:familyName "White" ;
+    Schema:givenName " DeAndrew" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Alabama" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:highSchool "North Shore " ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2553355 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:birthPlace "Miami " ;
+    Schema:familyName "Evans" ;
+    Schema:givenName " Randall" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight "195"^^xsd:int ;
+    NFL:college "Kansas State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Miami Palmetto Senior " ;
+    NFL:position "CB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2553632 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/10/1992"^^xsd:date ;
+    Schema:birthPlace "Johns Creek " ;
+    Schema:familyName "Andrews" ;
+    Schema:givenName " David" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Georgia" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "Wesleyan School " ;
+    NFL:playerNumber "60"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2553665 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "6/8/1993"^^xsd:date ;
+    Schema:birthPlace "Alabaster " ;
+    Schema:familyName "King" ;
+    Schema:givenName " Brandon" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Auburn" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "3"^^xsd:int ;
+    NFL:highSchool "Thompson " ;
+    NFL:playerNumber "36"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2553790 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/15/1993"^^xsd:date ;
+    Schema:birthPlace "Kansas City " ;
+    Schema:familyName "Bausby" ;
+    Schema:givenName " DeVante" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "190"^^xsd:int ;
+    NFL:college "Pittsburg State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:highSchool "Hogan Preparatory Academy " ;
+    NFL:position "CB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int,
+        "2009"^^xsd:int .
+
+NFL:2553801 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "3/11/1992"^^xsd:date ;
+    Schema:familyName "Garner" ;
+    Schema:givenName " Manasseh" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "220"^^xsd:int ;
+    NFL:college "Pittsburgh" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:position "TE" ;
+    NFL:yearPlayed "1973"^^xsd:int,
+        "1974"^^xsd:int .
+
+NFL:2555145 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "3/15/1993"^^xsd:date ;
+    Schema:birthPlace "Chicago " ;
+    Schema:familyName "Karras" ;
+    Schema:givenName " Ted" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Illinois" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:highSchool "Cathedral " ;
+    NFL:playerNumber "75"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2555201 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "8/2/1994"^^xsd:date ;
+    Schema:birthPlace "Harvey " ;
+    Schema:familyName "Tunsil" ;
+    Schema:givenName " Laremy" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "316"^^xsd:int ;
+    NFL:college "Mississippi" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:highSchool "Columbia " ;
+    NFL:playerNumber "67"^^xsd:int ;
+    NFL:position "OG" ;
+    NFL:yearPlayed "1974"^^xsd:int,
+        "1975"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2555230 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/26/1994"^^xsd:date ;
+    Schema:birthPlace "Powder Springs " ;
+    Schema:familyName "Drake" ;
+    Schema:givenName " Kenyan" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "216"^^xsd:int ;
+    NFL:college "Alabama" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:highSchool "Hillgrove " ;
+    NFL:playerNumber "32"^^xsd:int ;
+    NFL:position "RB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2555517 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "2/23/1994"^^xsd:date ;
+    Schema:birthPlace "Madison " ;
+    Schema:familyName "Valentine" ;
+    Schema:givenName " Vincent" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Nebraska" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:highSchool "Edwardsville " ;
+    NFL:playerNumber "99"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2556524 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "7/19/1992"^^xsd:date ;
+    Schema:birthPlace "Cincinnati " ;
+    Schema:familyName "Fant" ;
+    Schema:givenName " George" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "296"^^xsd:int ;
+    NFL:college "Western Kentucky" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "2"^^xsd:int ;
+    NFL:highSchool "Warren Central " ;
+    NFL:playerNumber "74"^^xsd:int ;
+    NFL:position "OT" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2556525 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "4/8/1993"^^xsd:date ;
+    Schema:familyName "Farris" ;
+    Schema:givenName " Chase" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Ohio State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Elyria " ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2556677 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1201-01-01"^^xsd:date ;
+    Schema:familyName "Seau" ;
+    Schema:givenName " Ian" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "256"^^xsd:int ;
+    NFL:college "Nevada" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:position "DE" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2557450 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/5/1993"^^xsd:date ;
+    Schema:familyName "Williams" ;
+    Schema:givenName " Isaiah" ;
+    Schema:height "75"^^xsd:int ;
+    Schema:weight "295"^^xsd:int ;
+    NFL:college "Akron" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:playerNumber "63"^^xsd:int ;
+    NFL:position "OT" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int,
+        "1997"^^xsd:int,
+        "1998"^^xsd:int,
+        "1999"^^xsd:int,
+        "2000"^^xsd:int,
+        "2001"^^xsd:int,
+        "2002"^^xsd:int,
+        "2003"^^xsd:int,
+        "2004"^^xsd:int .
+
+NFL:2557873 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/29/1994"^^xsd:date ;
+    Schema:birthPlace "Orland Park " ;
+    Schema:familyName "Feeney" ;
+    Schema:givenName " Dan" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "304"^^xsd:int ;
+    NFL:college "Indiana" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Carl Sandburg " ;
+    NFL:position "OG" ;
+    NFL:yearPlayed "1960"^^xsd:int,
+        "1961"^^xsd:int,
+        "1962"^^xsd:int,
+        "1963"^^xsd:int,
+        "1964"^^xsd:int,
+        "1965"^^xsd:int,
+        "1966"^^xsd:int,
+        "1967"^^xsd:int,
+        "1968"^^xsd:int,
+        "1969"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2557885 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/31/1995"^^xsd:date ;
+    Schema:birthPlace "Navarre " ;
+    Schema:familyName "Leggett" ;
+    Schema:givenName " Jordan" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "250"^^xsd:int ;
+    NFL:college "Clemson" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Navarre " ;
+    NFL:position "TE" ;
+    NFL:yearPlayed "1946"^^xsd:int,
+        "1947"^^xsd:int,
+        "1948"^^xsd:int .
+
+NFL:2558040 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/9/1994"^^xsd:date ;
+    Schema:birthPlace "Augusta " ;
+    Schema:familyName "Rivers" ;
+    Schema:givenName " Derek" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Youngstown State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Kinston " ;
+    NFL:playerNumber "95"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2558070 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1101-01-01"^^xsd:date ;
+    Schema:birthPlace "Midway " ;
+    Schema:familyName "McMillan" ;
+    Schema:givenName " Raekwon" ;
+    Schema:height "74"^^xsd:int ;
+    Schema:weight "243"^^xsd:int ;
+    NFL:college "Ohio State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Liberty County " ;
+    NFL:position "LB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2558860 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate ""^^xsd:date ;
+    Schema:familyName "Williams" ;
+    Schema:givenName " Marquez" ;
+    Schema:height "70"^^xsd:int ;
+    Schema:weight "259"^^xsd:int ;
+    NFL:college "Miami (Fla.)" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Clarke Central " ;
+    NFL:position "FB" ;
+    NFL:yearPlayed "1934"^^xsd:int,
+        "1935"^^xsd:int,
+        "1936"^^xsd:int,
+        "1937"^^xsd:int,
+        "1938"^^xsd:int,
+        "1939"^^xsd:int,
+        "1940"^^xsd:int,
+        "1941"^^xsd:int,
+        "1942"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2558908 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "8/24/1994"^^xsd:date ;
+    Schema:familyName "Augusta" ;
+    Schema:givenName " Josh" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Missouri" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:playerNumber "72"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2558915 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "2/18/1995"^^xsd:date ;
+    Schema:birthPlace "Livingston " ;
+    Schema:familyName "Bower" ;
+    Schema:givenName " Tashawn" ;
+    Schema:height "77"^^xsd:int ;
+    Schema:weight "250"^^xsd:int ;
+    NFL:college "LSU" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Immaculata " ;
+    NFL:position "DE" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2559002 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "4/19/1994"^^xsd:date ;
+    Schema:familyName "Travis" ;
+    Schema:givenName " Damarius" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Minnesota" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:highSchool "Pensacola " ;
+    NFL:playerNumber "45"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2559036 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/19/1994"^^xsd:date ;
+    Schema:familyName "Rich" ;
+    Schema:givenName " Max" ;
+    Schema:height "79"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Harvard" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:playerNumber "72"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2559038 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "8/22/1993"^^xsd:date ;
+    Schema:familyName "Thomas" ;
+    Schema:givenName " Dwayne" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "LSU" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:playerNumber "27"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2559295 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate ""^^xsd:date ;
+    Schema:familyName "Wilkinson" ;
+    Schema:givenName " Elijah" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "331"^^xsd:int ;
+    NFL:college "Massachusetts" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:position "OT" ;
+    NFL:yearPlayed "1942"^^xsd:int,
+        "1943"^^xsd:int,
+        "1944"^^xsd:int,
+        "1945"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:2559374 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1/27/1994"^^xsd:date ;
+    Schema:familyName "Cotton" ;
+    Schema:givenName " Sam" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Nebraska" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "1"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:494261 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "4/1/1988"^^xsd:date ;
+    Schema:birthPlace "Dayton " ;
+    Schema:familyName "Coleman" ;
+    Schema:givenName " Kurt" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "200"^^xsd:int ;
+    NFL:college "Ohio State" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "8"^^xsd:int ;
+    NFL:highSchool "Northmont " ;
+    NFL:playerNumber "20"^^xsd:int ;
+    NFL:position "SS" ;
+    NFL:yearPlayed "1964"^^xsd:int .
+
+NFL:496949 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/3/1988"^^xsd:date ;
+    Schema:birthPlace "Atlanta " ;
+    Schema:familyName "Riley" ;
+    Schema:givenName " Perry" ;
+    Schema:height "72"^^xsd:int ;
+    Schema:weight "240"^^xsd:int ;
+    NFL:college "LSU" ;
+    NFL:currentStatus "Unsigned free agent" ;
+    NFL:experience "8"^^xsd:int ;
+    NFL:highSchool "Stephenson " ;
+    NFL:playerNumber "54"^^xsd:int ;
+    NFL:position "MLB" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:496980 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1101-01-01"^^xsd:date ;
+    Schema:birthPlace "Casper " ;
+    Schema:familyName "Beadles" ;
+    Schema:givenName " Zane" ;
+    Schema:height "76"^^xsd:int ;
+    Schema:weight "305"^^xsd:int ;
+    NFL:college "Utah" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "8"^^xsd:int ;
+    NFL:highSchool "Hillcrest " ;
+    NFL:playerNumber "68"^^xsd:int ;
+    NFL:position "G" ;
+    NFL:yearPlayed "1960"^^xsd:int,
+        "1961"^^xsd:int,
+        "1962"^^xsd:int,
+        "1963"^^xsd:int,
+        "1964"^^xsd:int,
+        "1965"^^xsd:int,
+        "1966"^^xsd:int,
+        "1967"^^xsd:int,
+        "1968"^^xsd:int,
+        "1969"^^xsd:int,
+        "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:497240 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "5/14/1989"^^xsd:date ;
+    Schema:birthPlace "Amherst " ;
+    Schema:familyName "Gronkowski" ;
+    Schema:givenName " Rob" ;
+    Schema:height "78"^^xsd:int ;
+    Schema:weight ""^^xsd:int ;
+    NFL:college "Arizona" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "8"^^xsd:int ;
+    NFL:highSchool "Williamsville North " ;
+    NFL:playerNumber "87"^^xsd:int ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:71251 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "8/19/1987"^^xsd:date ;
+    Schema:birthPlace "Kingston Jamaica" ;
+    Schema:familyName "Chung" ;
+    Schema:givenName " Patrick" ;
+    Schema:height "71"^^xsd:int ;
+    Schema:weight "215"^^xsd:int ;
+    NFL:college "Oregon" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "9"^^xsd:int ;
+    NFL:highSchool "Rancho Cucamonga " ;
+    NFL:playerNumber "23"^^xsd:int ;
+    NFL:position "SS" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
+NFL:81306 a Schema:Person,
+        Schema:athlete ;
+    rdfs:label "Washington Redskins"@en ;
+    Schema:Gender Schema:Male ;
+    Schema:birthDate "1001-01-01"^^xsd:date ;
+    Schema:birthPlace "Burlington " ;
+    Schema:familyName "Tate" ;
+    Schema:givenName " Brandon" ;
+    Schema:height "73"^^xsd:int ;
+    Schema:weight "195"^^xsd:int ;
+    NFL:college "North Carolina" ;
+    NFL:currentStatus "Active" ;
+    NFL:experience "9"^^xsd:int ;
+    NFL:highSchool "Cummings " ;
+    NFL:playerNumber "15"^^xsd:int ;
+    NFL:position "WR" ;
+    NFL:yearPlayed "1976"^^xsd:int,
+        "1977"^^xsd:int,
+        "1978"^^xsd:int,
+        "1979"^^xsd:int,
+        "1980"^^xsd:int,
+        "1981"^^xsd:int .
+
