@@ -68,5 +68,5 @@ PREFIX ja:      <http://jena.hpl.hp.com/2005/11/Assembler#>
 
 # The base data.
 :baseModel a ja:MemoryModel ;
-    ja:content [ja:externalContent <D:/Documents/GitHub/FWS_Grupo_2/nfl_data_test.ttl> ] ;
+    ja:content [ja:externalContent <D:/Documents/GitHub/FWS_Grupo_2/nfl_data_v2.ttl> ] ;
     .
