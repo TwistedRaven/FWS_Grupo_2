@@ -145,8 +145,7 @@ NFL:24 a Schema:SportsTeam ;
     Schema:name "Philadelphia Eagles" ;
     Schema:sport "American Football" .
 
-NFL:2495275 a Schema:Person,
-        Schema:athlete ;
+NFL:2495275 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/28/1989"^^xsd:date ;
@@ -160,8 +159,7 @@ NFL:2495275 a Schema:Person,
     NFL:yearPlayed "2011"^^xsd:int,
         "2012"^^xsd:int .
 
-NFL:2495605 a Schema:Person,
-        Schema:athlete ;
+NFL:2495605 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "2/6/1984"^^xsd:date ;
@@ -181,8 +179,7 @@ NFL:2495605 a Schema:Person,
         "2012"^^xsd:int,
         "2013"^^xsd:int .
 
-NFL:2495791 a Schema:Person,
-        Schema:athlete ;
+NFL:2495791 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -195,8 +192,7 @@ NFL:2495791 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "2007"^^xsd:int .
 
-NFL:2499376 a Schema:Person,
-        Schema:athlete ;
+NFL:2499376 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -221,8 +217,7 @@ NFL:25 a Schema:SportsTeam ;
     Schema:owner <http://dbpedia.org/resource/Rooney_family> ;
     Schema:sport "American Football" .
 
-NFL:2500536 a Schema:Person,
-        Schema:athlete ;
+NFL:2500536 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -243,8 +238,7 @@ NFL:2500536 a Schema:Person,
         "2003"^^xsd:int,
         "2004"^^xsd:int .
 
-NFL:2502600 a Schema:Person,
-        Schema:athlete ;
+NFL:2502600 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "6/29/1977"^^xsd:date ;
@@ -267,8 +261,7 @@ NFL:2502600 a Schema:Person,
         "2007"^^xsd:int,
         "2008"^^xsd:int .
 
-NFL:2502679 a Schema:Person,
-        Schema:athlete ;
+NFL:2502679 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/7/1962"^^xsd:date ;
@@ -290,8 +283,7 @@ NFL:2502679 a Schema:Person,
         "1991"^^xsd:int,
         "1992"^^xsd:int .
 
-NFL:2503464 a Schema:Person,
-        Schema:athlete ;
+NFL:2503464 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "6/14/1963"^^xsd:date ;
@@ -313,8 +305,7 @@ NFL:2503464 a Schema:Person,
         "1993"^^xsd:int,
         "1994"^^xsd:int .
 
-NFL:2503572 a Schema:Person,
-        Schema:athlete ;
+NFL:2503572 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "4/12/1974"^^xsd:date ;
@@ -333,8 +324,7 @@ NFL:2503572 a Schema:Person,
         "2002"^^xsd:int,
         "2003"^^xsd:int .
 
-NFL:2504264 a Schema:Person,
-        Schema:athlete ;
+NFL:2504264 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/8/1977"^^xsd:date ;
@@ -356,8 +346,7 @@ NFL:2504264 a Schema:Person,
         "2007"^^xsd:int,
         "2008"^^xsd:int .
 
-NFL:2504395 a Schema:Person,
-        Schema:athlete ;
+NFL:2504395 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/17/1978"^^xsd:date ;
@@ -381,8 +370,7 @@ NFL:2504395 a Schema:Person,
         "2010"^^xsd:int,
         "2011"^^xsd:int .
 
-NFL:2504656 a Schema:Person,
-        Schema:athlete ;
+NFL:2504656 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/6/1978"^^xsd:date ;
@@ -403,8 +391,7 @@ NFL:2504656 a Schema:Person,
         "2007"^^xsd:int,
         "2008"^^xsd:int .
 
-NFL:2506142 a Schema:Person,
-        Schema:athlete ;
+NFL:2506142 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "3/3/1983"^^xsd:date ;
@@ -417,8 +404,7 @@ NFL:2506142 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "2005"^^xsd:int .
 
-NFL:2506362 a Schema:Person,
-        Schema:athlete ;
+NFL:2506362 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "6/9/1983"^^xsd:date ;
@@ -438,8 +424,7 @@ NFL:2506362 a Schema:Person,
         "2010"^^xsd:int,
         "2011"^^xsd:int .
 
-NFL:2507719 a Schema:Person,
-        Schema:athlete ;
+NFL:2507719 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/4/1986"^^xsd:date ;
@@ -453,8 +438,7 @@ NFL:2507719 a Schema:Person,
     NFL:experience "0"^^xsd:int ;
     NFL:yearPlayed "2009"^^xsd:int .
 
-NFL:2507748 a Schema:Person,
-        Schema:athlete ;
+NFL:2507748 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1101-01-01"^^xsd:date ;
@@ -467,8 +451,7 @@ NFL:2507748 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "2009"^^xsd:int .
 
-NFL:2508869 a Schema:Person,
-        Schema:athlete ;
+NFL:2508869 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/30/1937"^^xsd:date ;
@@ -484,8 +467,7 @@ NFL:2508869 a Schema:Person,
         "1960"^^xsd:int,
         "1961"^^xsd:int .
 
-NFL:2509130 a Schema:Person,
-        Schema:athlete ;
+NFL:2509130 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/21/1939"^^xsd:date ;
@@ -499,8 +481,7 @@ NFL:2509130 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1964"^^xsd:int .
 
-NFL:2509286 a Schema:Person,
-        Schema:athlete ;
+NFL:2509286 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "2/9/1896"^^xsd:date ;
@@ -514,8 +495,7 @@ NFL:2509286 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1920"^^xsd:int .
 
-NFL:2509361 a Schema:Person,
-        Schema:athlete ;
+NFL:2509361 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "6/14/1957"^^xsd:date ;
@@ -530,8 +510,7 @@ NFL:2509361 a Schema:Person,
     NFL:yearPlayed "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2512416 a Schema:Person,
-        Schema:athlete ;
+NFL:2512416 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "3/3/1943"^^xsd:date ;
@@ -545,8 +524,7 @@ NFL:2512416 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1968"^^xsd:int .
 
-NFL:2512457 a Schema:Person,
-        Schema:athlete ;
+NFL:2512457 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/14/1954"^^xsd:date ;
@@ -562,8 +540,7 @@ NFL:2512457 a Schema:Person,
         "1977"^^xsd:int,
         "1978"^^xsd:int .
 
-NFL:2512597 a Schema:Person,
-        Schema:athlete ;
+NFL:2512597 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/21/1953"^^xsd:date ;
@@ -582,8 +559,7 @@ NFL:2512597 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2512778 a Schema:Person,
-        Schema:athlete ;
+NFL:2512778 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -598,8 +574,7 @@ NFL:2512778 a Schema:Person,
     NFL:yearPlayed "1973"^^xsd:int,
         "1974"^^xsd:int .
 
-NFL:2512828 a Schema:Person,
-        Schema:athlete ;
+NFL:2512828 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/15/1967"^^xsd:date ;
@@ -613,8 +588,7 @@ NFL:2512828 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1990"^^xsd:int .
 
-NFL:2513563 a Schema:Person,
-        Schema:athlete ;
+NFL:2513563 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "4/23/1959"^^xsd:date ;
@@ -634,8 +608,7 @@ NFL:2513563 a Schema:Person,
         "1987"^^xsd:int,
         "1988"^^xsd:int .
 
-NFL:2513736 a Schema:Person,
-        Schema:athlete ;
+NFL:2513736 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/23/1921"^^xsd:date ;
@@ -651,8 +624,7 @@ NFL:2513736 a Schema:Person,
         "1947"^^xsd:int,
         "1948"^^xsd:int .
 
-NFL:2513861 a Schema:Person,
-        Schema:athlete ;
+NFL:2513861 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/16/1920"^^xsd:date ;
@@ -668,8 +640,7 @@ NFL:2513861 a Schema:Person,
         "1947"^^xsd:int,
         "1948"^^xsd:int .
 
-NFL:2514196 a Schema:Person,
-        Schema:athlete ;
+NFL:2514196 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/30/1958"^^xsd:date ;
@@ -683,8 +654,7 @@ NFL:2514196 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1981"^^xsd:int .
 
-NFL:2514295 a Schema:Person,
-        Schema:athlete ;
+NFL:2514295 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/11/1960"^^xsd:date ;
@@ -698,8 +668,7 @@ NFL:2514295 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1985"^^xsd:int .
 
-NFL:2514537 a Schema:Person,
-        Schema:athlete ;
+NFL:2514537 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "6/21/1929"^^xsd:date ;
@@ -725,8 +694,7 @@ NFL:2514537 a Schema:Person,
         "1963"^^xsd:int,
         "1964"^^xsd:int .
 
-NFL:2514740 a Schema:Person,
-        Schema:athlete ;
+NFL:2514740 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/12/1924"^^xsd:date ;
@@ -740,8 +708,7 @@ NFL:2514740 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1948"^^xsd:int .
 
-NFL:2515030 a Schema:Person,
-        Schema:athlete ;
+NFL:2515030 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "2/23/1919"^^xsd:date ;
@@ -755,8 +722,7 @@ NFL:2515030 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1942"^^xsd:int .
 
-NFL:2515842 a Schema:Person,
-        Schema:athlete ;
+NFL:2515842 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -770,8 +736,7 @@ NFL:2515842 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1987"^^xsd:int .
 
-NFL:2518101 a Schema:Person,
-        Schema:athlete ;
+NFL:2518101 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/29/1983"^^xsd:date ;
@@ -784,8 +749,7 @@ NFL:2518101 a Schema:Person,
     NFL:experience "0"^^xsd:int ;
     NFL:yearPlayed "2006"^^xsd:int .
 
-NFL:2518471 a Schema:Person,
-        Schema:athlete ;
+NFL:2518471 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/16/1950"^^xsd:date ;
@@ -802,8 +766,7 @@ NFL:2518471 a Schema:Person,
         "1976"^^xsd:int,
         "1977"^^xsd:int .
 
-NFL:2518652 a Schema:Person,
-        Schema:athlete ;
+NFL:2518652 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "3/19/1919"^^xsd:date ;
@@ -820,8 +783,7 @@ NFL:2518652 a Schema:Person,
         "1944"^^xsd:int,
         "1945"^^xsd:int .
 
-NFL:2519112 a Schema:Person,
-        Schema:athlete ;
+NFL:2519112 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -840,8 +802,7 @@ NFL:2519112 a Schema:Person,
         "1979"^^xsd:int,
         "1980"^^xsd:int .
 
-NFL:2519453 a Schema:Person,
-        Schema:athlete ;
+NFL:2519453 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/23/1936"^^xsd:date ;
@@ -859,8 +820,7 @@ NFL:2519453 a Schema:Person,
         "1961"^^xsd:int,
         "1962"^^xsd:int .
 
-NFL:2520035 a Schema:Person,
-        Schema:athlete ;
+NFL:2520035 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "6/18/1910"^^xsd:date ;
@@ -882,8 +842,7 @@ NFL:2520035 a Schema:Person,
         "1941"^^xsd:int,
         "1942"^^xsd:int .
 
-NFL:2520333 a Schema:Person,
-        Schema:athlete ;
+NFL:2520333 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -906,8 +865,7 @@ NFL:2520333 a Schema:Person,
         "1968"^^xsd:int,
         "1969"^^xsd:int .
 
-NFL:2522114 a Schema:Person,
-        Schema:athlete ;
+NFL:2522114 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1101-01-01"^^xsd:date ;
@@ -922,8 +880,7 @@ NFL:2522114 a Schema:Person,
     NFL:yearPlayed "1935"^^xsd:int,
         "1936"^^xsd:int .
 
-NFL:2522592 a Schema:Person,
-        Schema:athlete ;
+NFL:2522592 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -944,8 +901,7 @@ NFL:2522592 a Schema:Person,
         "1971"^^xsd:int,
         "1972"^^xsd:int .
 
-NFL:2523136 a Schema:Person,
-        Schema:athlete ;
+NFL:2523136 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/11/1892"^^xsd:date ;
@@ -959,8 +915,7 @@ NFL:2523136 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1920"^^xsd:int .
 
-NFL:2523147 a Schema:Person,
-        Schema:athlete ;
+NFL:2523147 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/31/1947"^^xsd:date ;
@@ -974,8 +929,7 @@ NFL:2523147 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1970"^^xsd:int .
 
-NFL:2523695 a Schema:Person,
-        Schema:athlete ;
+NFL:2523695 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "2/10/1961"^^xsd:date ;
@@ -989,8 +943,7 @@ NFL:2523695 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1987"^^xsd:int .
 
-NFL:2523700 a Schema:Person,
-        Schema:athlete ;
+NFL:2523700 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -1004,8 +957,7 @@ NFL:2523700 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1954"^^xsd:int .
 
-NFL:2523928 a Schema:Person,
-        Schema:athlete ;
+NFL:2523928 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/14/1927"^^xsd:date ;
@@ -1025,8 +977,7 @@ NFL:2523928 a Schema:Person,
         "1955"^^xsd:int,
         "1956"^^xsd:int .
 
-NFL:2524829 a Schema:Person,
-        Schema:athlete ;
+NFL:2524829 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/7/1956"^^xsd:date ;
@@ -1041,8 +992,7 @@ NFL:2524829 a Schema:Person,
     NFL:yearPlayed "1978"^^xsd:int,
         "1979"^^xsd:int .
 
-NFL:2524989 a Schema:Person,
-        Schema:athlete ;
+NFL:2524989 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "8/12/1930"^^xsd:date ;
@@ -1059,8 +1009,7 @@ NFL:2524989 a Schema:Person,
         "1955"^^xsd:int,
         "1956"^^xsd:int .
 
-NFL:2525128 a Schema:Person,
-        Schema:athlete ;
+NFL:2525128 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -1075,8 +1024,7 @@ NFL:2525128 a Schema:Person,
     NFL:yearPlayed "1947"^^xsd:int,
         "1948"^^xsd:int .
 
-NFL:2525255 a Schema:Person,
-        Schema:athlete ;
+NFL:2525255 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/16/1960"^^xsd:date ;
@@ -1090,8 +1038,7 @@ NFL:2525255 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1987"^^xsd:int .
 
-NFL:2525335 a Schema:Person,
-        Schema:athlete ;
+NFL:2525335 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/22/1918"^^xsd:date ;
@@ -1108,8 +1055,7 @@ NFL:2525335 a Schema:Person,
         "1945"^^xsd:int,
         "1946"^^xsd:int .
 
-NFL:2527011 a Schema:Person,
-        Schema:athlete ;
+NFL:2527011 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "3/8/1945"^^xsd:date ;
@@ -1126,8 +1072,7 @@ NFL:2527011 a Schema:Person,
         "1973"^^xsd:int,
         "1974"^^xsd:int .
 
-NFL:2527085 a Schema:Person,
-        Schema:athlete ;
+NFL:2527085 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -1141,8 +1086,7 @@ NFL:2527085 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1982"^^xsd:int .
 
-NFL:2527193 a Schema:Person,
-        Schema:athlete ;
+NFL:2527193 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/11/1949"^^xsd:date ;
@@ -1161,8 +1105,7 @@ NFL:2527193 a Schema:Person,
         "1977"^^xsd:int,
         "1978"^^xsd:int .
 
-NFL:2527241 a Schema:Person,
-        Schema:athlete ;
+NFL:2527241 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/1/1942"^^xsd:date ;
@@ -1178,8 +1121,7 @@ NFL:2527241 a Schema:Person,
         "1967"^^xsd:int,
         "1968"^^xsd:int .
 
-NFL:2527303 a Schema:Person,
-        Schema:athlete ;
+NFL:2527303 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate ""^^xsd:date ;
@@ -1192,8 +1134,7 @@ NFL:2527303 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "1927"^^xsd:int .
 
-NFL:2530581 a Schema:Person,
-        Schema:athlete ;
+NFL:2530581 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/12/1988"^^xsd:date ;
@@ -1209,8 +1150,7 @@ NFL:2530581 a Schema:Person,
         "2012"^^xsd:int,
         "2013"^^xsd:int .
 
-NFL:2530729 a Schema:Person,
-        Schema:athlete ;
+NFL:2530729 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -1225,8 +1165,7 @@ NFL:2530729 a Schema:Person,
     NFL:yearPlayed "2011"^^xsd:int,
         "2012"^^xsd:int .
 
-NFL:2530849 a Schema:Person,
-        Schema:athlete ;
+NFL:2530849 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "2/18/1987"^^xsd:date ;
@@ -1240,8 +1179,7 @@ NFL:2530849 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "2011"^^xsd:int .
 
-NFL:2532782 a Schema:Person,
-        Schema:athlete ;
+NFL:2532782 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1101-01-01"^^xsd:date ;
@@ -1257,8 +1195,7 @@ NFL:2532782 a Schema:Person,
         "2013"^^xsd:int,
         "2014"^^xsd:int .
 
-NFL:2541732 a Schema:Person,
-        Schema:athlete ;
+NFL:2541732 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "2/15/1990"^^xsd:date ;
@@ -1272,8 +1209,7 @@ NFL:2541732 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "2013"^^xsd:int .
 
-NFL:2541971 a Schema:Person,
-        Schema:athlete ;
+NFL:2541971 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/3/1990"^^xsd:date ;
@@ -1286,8 +1222,7 @@ NFL:2541971 a Schema:Person,
     NFL:experience "1"^^xsd:int ;
     NFL:yearPlayed "2013"^^xsd:int .
 
-NFL:2550652 a Schema:Person,
-        Schema:athlete ;
+NFL:2550652 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/24/1991"^^xsd:date ;
@@ -1374,8 +1309,7 @@ NFL:7 a Schema:SportsTeam ;
     Schema:name "Cincinnati Bengals" ;
     Schema:sport "American Football" .
 
-NFL:79593 a Schema:Person,
-        Schema:athlete ;
+NFL:79593 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/30/1986"^^xsd:date ;
@@ -1573,8 +1507,7 @@ NFL:9 a Schema:SportsTeam ;
 
 <http://www.nfl.com/virgileikenberg/2513524> NFL:playerseason <http://www.nfl.com/virgileikenberg/2513524/1948> .
 
-NFL:238498 a Schema:Person,
-        Schema:athlete ;
+NFL:238498 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/22/1986"^^xsd:date ;
@@ -1595,8 +1528,7 @@ NFL:238498 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2495164 a Schema:Person,
-        Schema:athlete ;
+NFL:2495164 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/1/1987"^^xsd:date ;
@@ -1618,8 +1550,7 @@ NFL:2495164 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2495483 a Schema:Person,
-        Schema:athlete ;
+NFL:2495483 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "3/18/1990"^^xsd:date ;
@@ -1641,8 +1572,7 @@ NFL:2495483 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2495809 a Schema:Person,
-        Schema:athlete ;
+NFL:2495809 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -1664,8 +1594,7 @@ NFL:2495809 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2508043 a Schema:Person,
-        Schema:athlete ;
+NFL:2508043 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1101-01-01"^^xsd:date ;
@@ -1692,8 +1621,7 @@ NFL:2508043 a Schema:Person,
         "2002"^^xsd:int,
         "2003"^^xsd:int .
 
-NFL:2508101 a Schema:Person,
-        Schema:athlete ;
+NFL:2508101 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/23/1988"^^xsd:date ;
@@ -1714,8 +1642,7 @@ NFL:2508101 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2532859 a Schema:Person,
-        Schema:athlete ;
+NFL:2532859 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/16/1989"^^xsd:date ;
@@ -1736,8 +1663,7 @@ NFL:2532859 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2532873 a Schema:Person,
-        Schema:athlete ;
+NFL:2532873 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/11/1990"^^xsd:date ;
@@ -1759,8 +1685,7 @@ NFL:2532873 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2532877 a Schema:Person,
-        Schema:athlete ;
+NFL:2532877 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/1/1990"^^xsd:date ;
@@ -1792,8 +1717,7 @@ NFL:2532877 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2532905 a Schema:Person,
-        Schema:athlete ;
+NFL:2532905 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "8/18/1989"^^xsd:date ;
@@ -1814,8 +1738,7 @@ NFL:2532905 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2532907 a Schema:Person,
-        Schema:athlete ;
+NFL:2532907 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "8/1/1989"^^xsd:date ;
@@ -1836,8 +1759,7 @@ NFL:2532907 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2533062 a Schema:Person,
-        Schema:athlete ;
+NFL:2533062 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/19/1990"^^xsd:date ;
@@ -1858,8 +1780,7 @@ NFL:2533062 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2535132 a Schema:Person,
-        Schema:athlete ;
+NFL:2535132 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -1880,8 +1801,7 @@ NFL:2535132 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2539307 a Schema:Person,
-        Schema:athlete ;
+NFL:2539307 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/19/1990"^^xsd:date ;
@@ -1905,8 +1825,7 @@ NFL:2539307 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2540251 a Schema:Person,
-        Schema:athlete ;
+NFL:2540251 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/17/1990"^^xsd:date ;
@@ -1928,8 +1847,7 @@ NFL:2540251 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2543498 a Schema:Person,
-        Schema:athlete ;
+NFL:2543498 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/25/1993"^^xsd:date ;
@@ -1950,8 +1868,7 @@ NFL:2543498 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2543640 a Schema:Person,
-        Schema:athlete ;
+NFL:2543640 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "4/26/1990"^^xsd:date ;
@@ -1974,8 +1891,7 @@ NFL:2543640 a Schema:Person,
         "1981"^^xsd:int,
         "2009"^^xsd:int .
 
-NFL:2543689 a Schema:Person,
-        Schema:athlete ;
+NFL:2543689 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/23/1989"^^xsd:date ;
@@ -1996,8 +1912,7 @@ NFL:2543689 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2543862 a Schema:Person,
-        Schema:athlete ;
+NFL:2543862 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "9/23/1991"^^xsd:date ;
@@ -2019,8 +1934,7 @@ NFL:2543862 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2550132 a Schema:Person,
-        Schema:athlete ;
+NFL:2550132 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/22/1991"^^xsd:date ;
@@ -2042,8 +1956,7 @@ NFL:2550132 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2550164 a Schema:Person,
-        Schema:athlete ;
+NFL:2550164 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/28/1990"^^xsd:date ;
@@ -2065,8 +1978,7 @@ NFL:2550164 a Schema:Person,
         "1979"^^xsd:int,
         "1980"^^xsd:int .
 
-NFL:2552255 a Schema:Person,
-        Schema:athlete ;
+NFL:2552255 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -2087,8 +1999,7 @@ NFL:2552255 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2552263 a Schema:Person,
-        Schema:athlete ;
+NFL:2552263 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/15/1992"^^xsd:date ;
@@ -2110,8 +2021,7 @@ NFL:2552263 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2552271 a Schema:Person,
-        Schema:athlete ;
+NFL:2552271 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "6/4/1992"^^xsd:date ;
@@ -2131,8 +2041,7 @@ NFL:2552271 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2552392 a Schema:Person,
-        Schema:athlete ;
+NFL:2552392 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/21/1993"^^xsd:date ;
@@ -2153,8 +2062,7 @@ NFL:2552392 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2552444 a Schema:Person,
-        Schema:athlete ;
+NFL:2552444 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "3/31/1992"^^xsd:date ;
@@ -2175,8 +2083,7 @@ NFL:2552444 a Schema:Person,
         "2012"^^xsd:int,
         "2013"^^xsd:int .
 
-NFL:2552657 a Schema:Person,
-        Schema:athlete ;
+NFL:2552657 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -2196,8 +2103,7 @@ NFL:2552657 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2553355 a Schema:Person,
-        Schema:athlete ;
+NFL:2553355 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -2218,8 +2124,7 @@ NFL:2553355 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2553632 a Schema:Person,
-        Schema:athlete ;
+NFL:2553632 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/10/1992"^^xsd:date ;
@@ -2240,8 +2145,7 @@ NFL:2553632 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2553665 a Schema:Person,
-        Schema:athlete ;
+NFL:2553665 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "6/8/1993"^^xsd:date ;
@@ -2262,8 +2166,7 @@ NFL:2553665 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2553790 a Schema:Person,
-        Schema:athlete ;
+NFL:2553790 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/15/1993"^^xsd:date ;
@@ -2285,8 +2188,7 @@ NFL:2553790 a Schema:Person,
         "1981"^^xsd:int,
         "2009"^^xsd:int .
 
-NFL:2553801 a Schema:Person,
-        Schema:athlete ;
+NFL:2553801 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "3/11/1992"^^xsd:date ;
@@ -2301,8 +2203,7 @@ NFL:2553801 a Schema:Person,
     NFL:yearPlayed "1973"^^xsd:int,
         "1974"^^xsd:int .
 
-NFL:2555145 a Schema:Person,
-        Schema:athlete ;
+NFL:2555145 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "3/15/1993"^^xsd:date ;
@@ -2323,8 +2224,7 @@ NFL:2555145 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2555201 a Schema:Person,
-        Schema:athlete ;
+NFL:2555201 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "8/2/1994"^^xsd:date ;
@@ -2348,8 +2248,7 @@ NFL:2555201 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2555230 a Schema:Person,
-        Schema:athlete ;
+NFL:2555230 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/26/1994"^^xsd:date ;
@@ -2371,8 +2270,7 @@ NFL:2555230 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2555517 a Schema:Person,
-        Schema:athlete ;
+NFL:2555517 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "2/23/1994"^^xsd:date ;
@@ -2393,8 +2291,7 @@ NFL:2555517 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2556524 a Schema:Person,
-        Schema:athlete ;
+NFL:2556524 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "7/19/1992"^^xsd:date ;
@@ -2416,8 +2313,7 @@ NFL:2556524 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2556525 a Schema:Person,
-        Schema:athlete ;
+NFL:2556525 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "4/8/1993"^^xsd:date ;
@@ -2436,8 +2332,7 @@ NFL:2556525 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2556677 a Schema:Person,
-        Schema:athlete ;
+NFL:2556677 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1201-01-01"^^xsd:date ;
@@ -2456,8 +2351,7 @@ NFL:2556677 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2557450 a Schema:Person,
-        Schema:athlete ;
+NFL:2557450 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/5/1993"^^xsd:date ;
@@ -2485,8 +2379,7 @@ NFL:2557450 a Schema:Person,
         "2003"^^xsd:int,
         "2004"^^xsd:int .
 
-NFL:2557873 a Schema:Person,
-        Schema:athlete ;
+NFL:2557873 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/29/1994"^^xsd:date ;
@@ -2517,8 +2410,7 @@ NFL:2557873 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2557885 a Schema:Person,
-        Schema:athlete ;
+NFL:2557885 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/31/1995"^^xsd:date ;
@@ -2536,8 +2428,7 @@ NFL:2557885 a Schema:Person,
         "1947"^^xsd:int,
         "1948"^^xsd:int .
 
-NFL:2558040 a Schema:Person,
-        Schema:athlete ;
+NFL:2558040 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/9/1994"^^xsd:date ;
@@ -2558,8 +2449,7 @@ NFL:2558040 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2558070 a Schema:Person,
-        Schema:athlete ;
+NFL:2558070 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1101-01-01"^^xsd:date ;
@@ -2580,8 +2470,7 @@ NFL:2558070 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2558860 a Schema:Person,
-        Schema:athlete ;
+NFL:2558860 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate ""^^xsd:date ;
@@ -2610,8 +2499,7 @@ NFL:2558860 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2558908 a Schema:Person,
-        Schema:athlete ;
+NFL:2558908 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "8/24/1994"^^xsd:date ;
@@ -2630,8 +2518,7 @@ NFL:2558908 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2558915 a Schema:Person,
-        Schema:athlete ;
+NFL:2558915 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "2/18/1995"^^xsd:date ;
@@ -2652,8 +2539,7 @@ NFL:2558915 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2559002 a Schema:Person,
-        Schema:athlete ;
+NFL:2559002 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "4/19/1994"^^xsd:date ;
@@ -2673,8 +2559,7 @@ NFL:2559002 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2559036 a Schema:Person,
-        Schema:athlete ;
+NFL:2559036 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/19/1994"^^xsd:date ;
@@ -2693,8 +2578,7 @@ NFL:2559036 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2559038 a Schema:Person,
-        Schema:athlete ;
+NFL:2559038 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "8/22/1993"^^xsd:date ;
@@ -2713,8 +2597,7 @@ NFL:2559038 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2559295 a Schema:Person,
-        Schema:athlete ;
+NFL:2559295 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate ""^^xsd:date ;
@@ -2737,8 +2620,7 @@ NFL:2559295 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:2559374 a Schema:Person,
-        Schema:athlete ;
+NFL:2559374 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1/27/1994"^^xsd:date ;
@@ -2756,8 +2638,7 @@ NFL:2559374 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:494261 a Schema:Person,
-        Schema:athlete ;
+NFL:494261 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "4/1/1988"^^xsd:date ;
@@ -2774,8 +2655,7 @@ NFL:494261 a Schema:Person,
     NFL:position "SS" ;
     NFL:yearPlayed "1964"^^xsd:int .
 
-NFL:496949 a Schema:Person,
-        Schema:athlete ;
+NFL:496949 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/3/1988"^^xsd:date ;
@@ -2797,8 +2677,7 @@ NFL:496949 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:496980 a Schema:Person,
-        Schema:athlete ;
+NFL:496980 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1101-01-01"^^xsd:date ;
@@ -2830,8 +2709,7 @@ NFL:496980 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:497240 a Schema:Person,
-        Schema:athlete ;
+NFL:497240 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "5/14/1989"^^xsd:date ;
@@ -2852,8 +2730,7 @@ NFL:497240 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:71251 a Schema:Person,
-        Schema:athlete ;
+NFL:71251 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "8/19/1987"^^xsd:date ;
@@ -2875,8 +2752,7 @@ NFL:71251 a Schema:Person,
         "1980"^^xsd:int,
         "1981"^^xsd:int .
 
-NFL:81306 a Schema:Person,
-        Schema:athlete ;
+NFL:81306 a Schema:athlete ;
     rdfs:label "Washington Redskins"@en ;
     Schema:Gender Schema:Male ;
     Schema:birthDate "1001-01-01"^^xsd:date ;
@@ -6343,4 +6219,6 @@ NFL:81306 a Schema:Person,
     NFL:td_passes "3" ;
     NFL:team <http://www.nfl.com/Chicago%20Cardinals> ;
     NFL:year "1948" .
+
+Schema:athlete rdfs:subClassOf Schema:Person .
 
