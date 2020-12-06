@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#"
+     xml:base="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#age -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#age">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#attendedHighSchool -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#attendedHighSchool">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#attendedHighSchoolLocation -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#attendedHighSchoolLocation">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#attendedHighSchool"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#birthDay -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#birthDay">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#birthPlace -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#birthPlace">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#coachesInTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#coachesInTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#worksInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Coach"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#college -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#college">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#currentStatus -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#currentStatus">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#TeamPersonnel"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#currentTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#currentTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#experience"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#experience -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#experience">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#gamesPlayed -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#gamesPlayed">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#height -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#height">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#name -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#name">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#number -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#number">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#ownsTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#ownsTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#worksInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#CEO"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#worksInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#positionInTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#positionInTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#weight -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#weight">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#worksInTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#worksInTeam">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#TeamPersonnel"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#yearsPlayed -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#yearsPlayed">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Athlete">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#playsInTeam"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#TeamPersonnel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#CEO -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#CEO">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#ownsTeam"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsWorker"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#TeamPersonnel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#City -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#City">
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Person"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Coach -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Coach">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#coachesInTeam"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#TeamPersonnel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Defensive -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Defensive">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Kickoff -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Kickoff">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#NFLGames -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#NFLGames"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Passing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Passing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Person -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Person">
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsTeam"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsWorker -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsWorker">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Statistics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#Statistics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#NFLGames"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#TeamPersonnel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#TeamPersonnel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/grupo_2/ontologies/2020/11/NFL-ontology#SportsWorker"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
